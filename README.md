@@ -17,3 +17,8 @@ Sistema de recomendaciones de equipos de futbol. Permite buscar, listar y filtra
 
 - TP0: Completado
 - TP1: Completado
+
+## Documentación
+
+- [Ver Propuesta del Proyecto y Diagramas](./docs/00-propuesta.md)
+- [Diagrama de Flujo](./diagrama_flujo.png)
