@@ -15,16 +15,16 @@ def limpiar_pantalla():
 
 def mostrar_presentacion():
     pelota = [
-        "(O)          ",
-        "  (O)        ",
-        "    (O)      ",
-        "      (O)    ",
-        "        (O)  ",
-        "          (O)",
-        "        (O)  ",
-        "      (O)    ",
-        "    (O)      ",
-        "  (O)        ",
+        "⚽          ",
+        "  ⚽        ",
+        "    ⚽      ",
+        "      ⚽    ",
+        "        ⚽  ",
+        "          ⚽",
+        "        ⚽  ",
+        "      ⚽    ",
+        "    ⚽      ",
+        "  ⚽        ",
     ]
 
     inicio = time.time()
