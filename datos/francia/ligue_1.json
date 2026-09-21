@@ -1,0 +1,12 @@
+[
+  {"nombre": "Lille", "pais": "Francia", "liga": "Ligue 1 Francia", "fundacion": 1944, "popularidad": 74, "titulos": 4, "estilo": "ordenado"},
+  {"nombre": "Lyon", "pais": "Francia", "liga": "Ligue 1 Francia", "fundacion": 1950, "popularidad": 82, "titulos": 7, "estilo": "cantera"},
+  {"nombre": "Marseille", "pais": "Francia", "liga": "Ligue 1 Francia", "fundacion": 1899, "popularidad": 88, "titulos": 9, "estilo": "popular"},
+  {"nombre": "Monaco", "pais": "Francia", "liga": "Ligue 1 Francia", "fundacion": 1924, "popularidad": 80, "titulos": 8, "estilo": "tecnico"},
+  {"nombre": "Nantes", "pais": "Francia", "liga": "Ligue 1 Francia", "fundacion": 1943, "popularidad": 70, "titulos": 8, "estilo": "historico"},
+  {"nombre": "Nice", "pais": "Francia", "liga": "Ligue 1 Francia", "fundacion": 1904, "popularidad": 72, "titulos": 4, "estilo": "ordenado"},
+  {"nombre": "Paris Saint-Germain", "pais": "Francia", "liga": "Ligue 1 Francia", "fundacion": 1970, "popularidad": 96, "titulos": 12, "estilo": "ofensivo"},
+  {"nombre": "Rennes", "pais": "Francia", "liga": "Ligue 1 Francia", "fundacion": 1901, "popularidad": 69, "titulos": 0, "estilo": "moderno"},
+  {"nombre": "Saint-Etienne", "pais": "Francia", "liga": "Ligue 1 Francia", "fundacion": 1919, "popularidad": 76, "titulos": 10, "estilo": "historico"},
+  {"nombre": "Strasbourg", "pais": "Francia", "liga": "Ligue 1 Francia", "fundacion": 1906, "popularidad": 67, "titulos": 1, "estilo": "regional"}
+]

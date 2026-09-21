@@ -1,0 +1,12 @@
+[
+  {"nombre": "Arsenal", "pais": "Inglaterra", "liga": "Premier League Inglaterra", "fundacion": 1886, "popularidad": 91, "titulos": 13, "estilo": "ofensivo"},
+  {"nombre": "Aston Villa", "pais": "Inglaterra", "liga": "Premier League Inglaterra", "fundacion": 1874, "popularidad": 78, "titulos": 7, "estilo": "historico"},
+  {"nombre": "Chelsea", "pais": "Inglaterra", "liga": "Premier League Inglaterra", "fundacion": 1905, "popularidad": 89, "titulos": 6, "estilo": "competitivo"},
+  {"nombre": "Everton", "pais": "Inglaterra", "liga": "Premier League Inglaterra", "fundacion": 1878, "popularidad": 76, "titulos": 9, "estilo": "historico"},
+  {"nombre": "Liverpool", "pais": "Inglaterra", "liga": "Premier League Inglaterra", "fundacion": 1892, "popularidad": 96, "titulos": 19, "estilo": "intenso"},
+  {"nombre": "Manchester City", "pais": "Inglaterra", "liga": "Premier League Inglaterra", "fundacion": 1880, "popularidad": 94, "titulos": 10, "estilo": "ofensivo"},
+  {"nombre": "Manchester United", "pais": "Inglaterra", "liga": "Premier League Inglaterra", "fundacion": 1878, "popularidad": 97, "titulos": 20, "estilo": "historico"},
+  {"nombre": "Newcastle United", "pais": "Inglaterra", "liga": "Premier League Inglaterra", "fundacion": 1892, "popularidad": 82, "titulos": 4, "estilo": "popular"},
+  {"nombre": "Tottenham Hotspur", "pais": "Inglaterra", "liga": "Premier League Inglaterra", "fundacion": 1882, "popularidad": 86, "titulos": 2, "estilo": "ofensivo"},
+  {"nombre": "West Ham United", "pais": "Inglaterra", "liga": "Premier League Inglaterra", "fundacion": 1895, "popularidad": 77, "titulos": 0, "estilo": "popular"}
+]

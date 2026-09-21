@@ -1,0 +1,12 @@
+[
+  {"nombre": "America", "pais": "Mexico", "liga": "Liga MX Mexico", "fundacion": 1916, "popularidad": 95, "titulos": 15, "estilo": "dominante"},
+  {"nombre": "Chivas", "pais": "Mexico", "liga": "Liga MX Mexico", "fundacion": 1906, "popularidad": 93, "titulos": 12, "estilo": "cantera"},
+  {"nombre": "Cruz Azul", "pais": "Mexico", "liga": "Liga MX Mexico", "fundacion": 1927, "popularidad": 88, "titulos": 9, "estilo": "historico"},
+  {"nombre": "Pumas UNAM", "pais": "Mexico", "liga": "Liga MX Mexico", "fundacion": 1954, "popularidad": 85, "titulos": 7, "estilo": "cantera"},
+  {"nombre": "Tigres UANL", "pais": "Mexico", "liga": "Liga MX Mexico", "fundacion": 1960, "popularidad": 86, "titulos": 8, "estilo": "competitivo"},
+  {"nombre": "Monterrey", "pais": "Mexico", "liga": "Liga MX Mexico", "fundacion": 1945, "popularidad": 84, "titulos": 5, "estilo": "moderno"},
+  {"nombre": "Toluca", "pais": "Mexico", "liga": "Liga MX Mexico", "fundacion": 1917, "popularidad": 78, "titulos": 10, "estilo": "historico"},
+  {"nombre": "Santos Laguna", "pais": "Mexico", "liga": "Liga MX Mexico", "fundacion": 1983, "popularidad": 75, "titulos": 6, "estilo": "ofensivo"},
+  {"nombre": "Leon", "pais": "Mexico", "liga": "Liga MX Mexico", "fundacion": 1944, "popularidad": 76, "titulos": 8, "estilo": "tecnico"},
+  {"nombre": "Atlas", "pais": "Mexico", "liga": "Liga MX Mexico", "fundacion": 1916, "popularidad": 72, "titulos": 3, "estilo": "popular"}
+]

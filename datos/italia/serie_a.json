@@ -1,0 +1,12 @@
+[
+  {"nombre": "AC Milan", "pais": "Italia", "liga": "Serie A Italia", "fundacion": 1899, "popularidad": 93, "titulos": 19, "estilo": "historico"},
+  {"nombre": "Atalanta", "pais": "Italia", "liga": "Serie A Italia", "fundacion": 1907, "popularidad": 76, "titulos": 0, "estilo": "ofensivo"},
+  {"nombre": "Fiorentina", "pais": "Italia", "liga": "Serie A Italia", "fundacion": 1926, "popularidad": 75, "titulos": 2, "estilo": "tecnico"},
+  {"nombre": "Inter", "pais": "Italia", "liga": "Serie A Italia", "fundacion": 1908, "popularidad": 94, "titulos": 20, "estilo": "competitivo"},
+  {"nombre": "Juventus", "pais": "Italia", "liga": "Serie A Italia", "fundacion": 1897, "popularidad": 95, "titulos": 36, "estilo": "dominante"},
+  {"nombre": "Lazio", "pais": "Italia", "liga": "Serie A Italia", "fundacion": 1900, "popularidad": 78, "titulos": 2, "estilo": "ordenado"},
+  {"nombre": "Napoli", "pais": "Italia", "liga": "Serie A Italia", "fundacion": 1926, "popularidad": 90, "titulos": 3, "estilo": "ofensivo"},
+  {"nombre": "Roma", "pais": "Italia", "liga": "Serie A Italia", "fundacion": 1927, "popularidad": 87, "titulos": 3, "estilo": "popular"},
+  {"nombre": "Torino", "pais": "Italia", "liga": "Serie A Italia", "fundacion": 1906, "popularidad": 70, "titulos": 7, "estilo": "historico"},
+  {"nombre": "Udinese", "pais": "Italia", "liga": "Serie A Italia", "fundacion": 1896, "popularidad": 66, "titulos": 0, "estilo": "resistente"}
+]

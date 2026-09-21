@@ -1,0 +1,12 @@
+[
+  {"nombre": "Athletic Club", "pais": "Espana", "liga": "La Liga Espana", "fundacion": 1898, "popularidad": 82, "titulos": 8, "estilo": "cantera"},
+  {"nombre": "Atletico de Madrid", "pais": "Espana", "liga": "La Liga Espana", "fundacion": 1903, "popularidad": 90, "titulos": 11, "estilo": "intenso"},
+  {"nombre": "Barcelona", "pais": "Espana", "liga": "La Liga Espana", "fundacion": 1899, "popularidad": 98, "titulos": 27, "estilo": "ofensivo"},
+  {"nombre": "Betis", "pais": "Espana", "liga": "La Liga Espana", "fundacion": 1907, "popularidad": 78, "titulos": 1, "estilo": "popular"},
+  {"nombre": "Celta de Vigo", "pais": "Espana", "liga": "La Liga Espana", "fundacion": 1923, "popularidad": 70, "titulos": 0, "estilo": "ofensivo"},
+  {"nombre": "Getafe", "pais": "Espana", "liga": "La Liga Espana", "fundacion": 1983, "popularidad": 61, "titulos": 0, "estilo": "fisico"},
+  {"nombre": "Real Madrid", "pais": "Espana", "liga": "La Liga Espana", "fundacion": 1902, "popularidad": 99, "titulos": 36, "estilo": "competitivo"},
+  {"nombre": "Real Sociedad", "pais": "Espana", "liga": "La Liga Espana", "fundacion": 1909, "popularidad": 76, "titulos": 2, "estilo": "moderno"},
+  {"nombre": "Sevilla", "pais": "Espana", "liga": "La Liga Espana", "fundacion": 1890, "popularidad": 79, "titulos": 1, "estilo": "copero"},
+  {"nombre": "Valencia", "pais": "Espana", "liga": "La Liga Espana", "fundacion": 1919, "popularidad": 81, "titulos": 6, "estilo": "historico"}
+]

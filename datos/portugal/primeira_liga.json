@@ -1,0 +1,12 @@
+[
+  {"nombre": "Benfica", "pais": "Portugal", "liga": "Primeira Liga Portugal", "fundacion": 1904, "popularidad": 93, "titulos": 38, "estilo": "ofensivo"},
+  {"nombre": "Porto", "pais": "Portugal", "liga": "Primeira Liga Portugal", "fundacion": 1893, "popularidad": 91, "titulos": 30, "estilo": "competitivo"},
+  {"nombre": "Sporting CP", "pais": "Portugal", "liga": "Primeira Liga Portugal", "fundacion": 1906, "popularidad": 89, "titulos": 20, "estilo": "cantera"},
+  {"nombre": "Braga", "pais": "Portugal", "liga": "Primeira Liga Portugal", "fundacion": 1921, "popularidad": 78, "titulos": 0, "estilo": "moderno"},
+  {"nombre": "Vitoria Guimaraes", "pais": "Portugal", "liga": "Primeira Liga Portugal", "fundacion": 1922, "popularidad": 74, "titulos": 0, "estilo": "popular"},
+  {"nombre": "Boavista", "pais": "Portugal", "liga": "Primeira Liga Portugal", "fundacion": 1903, "popularidad": 70, "titulos": 1, "estilo": "historico"},
+  {"nombre": "Maritimo", "pais": "Portugal", "liga": "Primeira Liga Portugal", "fundacion": 1910, "popularidad": 64, "titulos": 0, "estilo": "regional"},
+  {"nombre": "Belenenses", "pais": "Portugal", "liga": "Primeira Liga Portugal", "fundacion": 1919, "popularidad": 65, "titulos": 1, "estilo": "historico"},
+  {"nombre": "Rio Ave", "pais": "Portugal", "liga": "Primeira Liga Portugal", "fundacion": 1939, "popularidad": 62, "titulos": 0, "estilo": "ordenado"},
+  {"nombre": "Famalicao", "pais": "Portugal", "liga": "Primeira Liga Portugal", "fundacion": 1931, "popularidad": 60, "titulos": 0, "estilo": "moderno"}
+]
