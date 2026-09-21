@@ -1,0 +1,12 @@
+[
+  {"nombre": "Ajax", "pais": "Paises Bajos", "liga": "Eredivisie Paises Bajos", "fundacion": 1900, "popularidad": 92, "titulos": 36, "estilo": "cantera"},
+  {"nombre": "PSV Eindhoven", "pais": "Paises Bajos", "liga": "Eredivisie Paises Bajos", "fundacion": 1913, "popularidad": 88, "titulos": 25, "estilo": "ofensivo"},
+  {"nombre": "Feyenoord", "pais": "Paises Bajos", "liga": "Eredivisie Paises Bajos", "fundacion": 1908, "popularidad": 87, "titulos": 16, "estilo": "popular"},
+  {"nombre": "AZ Alkmaar", "pais": "Paises Bajos", "liga": "Eredivisie Paises Bajos", "fundacion": 1967, "popularidad": 74, "titulos": 2, "estilo": "moderno"},
+  {"nombre": "Twente", "pais": "Paises Bajos", "liga": "Eredivisie Paises Bajos", "fundacion": 1965, "popularidad": 70, "titulos": 1, "estilo": "ordenado"},
+  {"nombre": "Utrecht", "pais": "Paises Bajos", "liga": "Eredivisie Paises Bajos", "fundacion": 1970, "popularidad": 68, "titulos": 0, "estilo": "competitivo"},
+  {"nombre": "Heerenveen", "pais": "Paises Bajos", "liga": "Eredivisie Paises Bajos", "fundacion": 1920, "popularidad": 64, "titulos": 0, "estilo": "regional"},
+  {"nombre": "Vitesse", "pais": "Paises Bajos", "liga": "Eredivisie Paises Bajos", "fundacion": 1892, "popularidad": 63, "titulos": 0, "estilo": "historico"},
+  {"nombre": "Sparta Rotterdam", "pais": "Paises Bajos", "liga": "Eredivisie Paises Bajos", "fundacion": 1888, "popularidad": 61, "titulos": 6, "estilo": "historico"},
+  {"nombre": "Groningen", "pais": "Paises Bajos", "liga": "Eredivisie Paises Bajos", "fundacion": 1971, "popularidad": 60, "titulos": 0, "estilo": "regional"}
+]
