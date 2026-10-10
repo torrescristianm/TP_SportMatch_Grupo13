@@ -44,6 +44,7 @@ se modifica terminal.py
 
 - TP0: Completado
 - TP1: Completado
+- TP3: Completado
 - TP4: Completado
 - TP5: Completado
 
