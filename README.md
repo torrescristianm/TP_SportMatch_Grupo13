@@ -37,7 +37,8 @@ Ligas incluidas:
 El archivo `datos/generados/equipos_extra.json` contiene equipos ficticios de prueba para llegar a 1000 registros y poder comparar mejor la busqueda secuencial contra el arbol binario.
 
 Se incluye arbol avl y arbol n-ario
-se modifica terminal.py 
+
+Se modifica terminal.py 
 
 
 ## Estado
