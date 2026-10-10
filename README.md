@@ -38,7 +38,7 @@ El archivo `datos/generados/equipos_extra.json` contiene equipos ficticios de pr
 
 Se incluye arbol avl y arbol n-ario
 
-Se modifica terminal.py 
+Se modifica terminal.py con las nuevas busquedas
 
 
 ## Estado
