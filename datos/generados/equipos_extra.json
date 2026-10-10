@@ -1,0 +1,7652 @@
+[
+  {
+    "nombre": "Atletico Norte 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1880,
+    "popularidad": 35,
+    "titulos": 0,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Deportivo Norte 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1881,
+    "popularidad": 36,
+    "titulos": 1,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Sporting Norte 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1882,
+    "popularidad": 37,
+    "titulos": 2,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Union Norte 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1883,
+    "popularidad": 38,
+    "titulos": 3,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Central Norte 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1884,
+    "popularidad": 39,
+    "titulos": 4,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Juventud Norte 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1885,
+    "popularidad": 40,
+    "titulos": 5,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Academia Norte 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1886,
+    "popularidad": 41,
+    "titulos": 6,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Estudiantes Norte 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1887,
+    "popularidad": 42,
+    "titulos": 7,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Defensores Norte 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1888,
+    "popularidad": 43,
+    "titulos": 8,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Independiente Norte 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1889,
+    "popularidad": 44,
+    "titulos": 9,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Nacional Norte 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1890,
+    "popularidad": 45,
+    "titulos": 10,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Racing Norte 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1891,
+    "popularidad": 46,
+    "titulos": 11,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Real Norte 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1892,
+    "popularidad": 47,
+    "titulos": 12,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "San Martin Norte 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1893,
+    "popularidad": 48,
+    "titulos": 13,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Libertad Norte 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1894,
+    "popularidad": 49,
+    "titulos": 14,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Municipal Norte 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1895,
+    "popularidad": 50,
+    "titulos": 15,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Universitario Norte 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1896,
+    "popularidad": 51,
+    "titulos": 16,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Olimpico Norte 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1897,
+    "popularidad": 52,
+    "titulos": 17,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Ciudad Norte 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1898,
+    "popularidad": 53,
+    "titulos": 18,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Social Norte 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1899,
+    "popularidad": 54,
+    "titulos": 19,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Atletico Sur 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1900,
+    "popularidad": 55,
+    "titulos": 20,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Deportivo Sur 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1901,
+    "popularidad": 56,
+    "titulos": 21,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Sporting Sur 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1902,
+    "popularidad": 57,
+    "titulos": 22,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Union Sur 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1903,
+    "popularidad": 58,
+    "titulos": 23,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Central Sur 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1904,
+    "popularidad": 59,
+    "titulos": 24,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Juventud Sur 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1905,
+    "popularidad": 60,
+    "titulos": 0,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Academia Sur 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1906,
+    "popularidad": 61,
+    "titulos": 1,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Estudiantes Sur 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1907,
+    "popularidad": 62,
+    "titulos": 2,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Defensores Sur 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1908,
+    "popularidad": 63,
+    "titulos": 3,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Independiente Sur 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1909,
+    "popularidad": 64,
+    "titulos": 4,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Nacional Sur 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1910,
+    "popularidad": 65,
+    "titulos": 5,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Racing Sur 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1911,
+    "popularidad": 66,
+    "titulos": 6,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Real Sur 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1912,
+    "popularidad": 67,
+    "titulos": 7,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "San Martin Sur 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1913,
+    "popularidad": 68,
+    "titulos": 8,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Libertad Sur 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1914,
+    "popularidad": 69,
+    "titulos": 9,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Municipal Sur 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1915,
+    "popularidad": 70,
+    "titulos": 10,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Universitario Sur 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1916,
+    "popularidad": 71,
+    "titulos": 11,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Olimpico Sur 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1917,
+    "popularidad": 72,
+    "titulos": 12,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Ciudad Sur 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1918,
+    "popularidad": 73,
+    "titulos": 13,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Social Sur 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1919,
+    "popularidad": 74,
+    "titulos": 14,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Atletico Este 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1920,
+    "popularidad": 75,
+    "titulos": 15,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Deportivo Este 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1921,
+    "popularidad": 76,
+    "titulos": 16,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Sporting Este 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1922,
+    "popularidad": 77,
+    "titulos": 17,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Union Este 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1923,
+    "popularidad": 78,
+    "titulos": 18,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Central Este 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1924,
+    "popularidad": 79,
+    "titulos": 19,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Juventud Este 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1925,
+    "popularidad": 80,
+    "titulos": 20,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Academia Este 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1926,
+    "popularidad": 81,
+    "titulos": 21,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Estudiantes Este 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1927,
+    "popularidad": 82,
+    "titulos": 22,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Defensores Este 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1928,
+    "popularidad": 83,
+    "titulos": 23,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Independiente Este 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1929,
+    "popularidad": 84,
+    "titulos": 24,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Nacional Este 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1930,
+    "popularidad": 85,
+    "titulos": 0,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Racing Este 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1931,
+    "popularidad": 86,
+    "titulos": 1,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Real Este 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1932,
+    "popularidad": 87,
+    "titulos": 2,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "San Martin Este 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1933,
+    "popularidad": 88,
+    "titulos": 3,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Libertad Este 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1934,
+    "popularidad": 89,
+    "titulos": 4,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Municipal Este 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1935,
+    "popularidad": 90,
+    "titulos": 5,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Universitario Este 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1936,
+    "popularidad": 91,
+    "titulos": 6,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Olimpico Este 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1937,
+    "popularidad": 92,
+    "titulos": 7,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Ciudad Este 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1938,
+    "popularidad": 93,
+    "titulos": 8,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Social Este 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1939,
+    "popularidad": 94,
+    "titulos": 9,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Atletico Oeste 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1940,
+    "popularidad": 95,
+    "titulos": 10,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Deportivo Oeste 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1941,
+    "popularidad": 96,
+    "titulos": 11,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Sporting Oeste 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1942,
+    "popularidad": 97,
+    "titulos": 12,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Union Oeste 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1943,
+    "popularidad": 98,
+    "titulos": 13,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Central Oeste 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1944,
+    "popularidad": 35,
+    "titulos": 14,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Juventud Oeste 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1945,
+    "popularidad": 36,
+    "titulos": 15,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Academia Oeste 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1946,
+    "popularidad": 37,
+    "titulos": 16,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Estudiantes Oeste 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1947,
+    "popularidad": 38,
+    "titulos": 17,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Defensores Oeste 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1948,
+    "popularidad": 39,
+    "titulos": 18,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Independiente Oeste 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1949,
+    "popularidad": 40,
+    "titulos": 19,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Nacional Oeste 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1950,
+    "popularidad": 41,
+    "titulos": 20,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Racing Oeste 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1951,
+    "popularidad": 42,
+    "titulos": 21,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Real Oeste 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1952,
+    "popularidad": 43,
+    "titulos": 22,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "San Martin Oeste 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1953,
+    "popularidad": 44,
+    "titulos": 23,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Libertad Oeste 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1954,
+    "popularidad": 45,
+    "titulos": 24,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Municipal Oeste 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1955,
+    "popularidad": 46,
+    "titulos": 0,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Universitario Oeste 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1956,
+    "popularidad": 47,
+    "titulos": 1,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Olimpico Oeste 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1957,
+    "popularidad": 48,
+    "titulos": 2,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Ciudad Oeste 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1958,
+    "popularidad": 49,
+    "titulos": 3,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Social Oeste 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1959,
+    "popularidad": 50,
+    "titulos": 4,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Atletico Capital 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1960,
+    "popularidad": 51,
+    "titulos": 5,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Deportivo Capital 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1961,
+    "popularidad": 52,
+    "titulos": 6,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Sporting Capital 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1962,
+    "popularidad": 53,
+    "titulos": 7,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Union Capital 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1963,
+    "popularidad": 54,
+    "titulos": 8,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Central Capital 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1964,
+    "popularidad": 55,
+    "titulos": 9,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Juventud Capital 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1965,
+    "popularidad": 56,
+    "titulos": 10,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Academia Capital 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1966,
+    "popularidad": 57,
+    "titulos": 11,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Estudiantes Capital 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1967,
+    "popularidad": 58,
+    "titulos": 12,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Defensores Capital 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1968,
+    "popularidad": 59,
+    "titulos": 13,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Independiente Capital 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1969,
+    "popularidad": 60,
+    "titulos": 14,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Nacional Capital 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1970,
+    "popularidad": 61,
+    "titulos": 15,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Racing Capital 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1971,
+    "popularidad": 62,
+    "titulos": 16,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Real Capital 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1972,
+    "popularidad": 63,
+    "titulos": 17,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "San Martin Capital 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1973,
+    "popularidad": 64,
+    "titulos": 18,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Libertad Capital 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1974,
+    "popularidad": 65,
+    "titulos": 19,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Municipal Capital 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1975,
+    "popularidad": 66,
+    "titulos": 20,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Universitario Capital 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1976,
+    "popularidad": 67,
+    "titulos": 21,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Olimpico Capital 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1977,
+    "popularidad": 68,
+    "titulos": 22,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Ciudad Capital 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1978,
+    "popularidad": 69,
+    "titulos": 23,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Social Capital 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1979,
+    "popularidad": 70,
+    "titulos": 24,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Atletico Puerto 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1980,
+    "popularidad": 71,
+    "titulos": 0,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Deportivo Puerto 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1981,
+    "popularidad": 72,
+    "titulos": 1,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Sporting Puerto 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1982,
+    "popularidad": 73,
+    "titulos": 2,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Union Puerto 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1983,
+    "popularidad": 74,
+    "titulos": 3,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Central Puerto 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1984,
+    "popularidad": 75,
+    "titulos": 4,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Juventud Puerto 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1985,
+    "popularidad": 76,
+    "titulos": 5,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Academia Puerto 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1986,
+    "popularidad": 77,
+    "titulos": 6,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Estudiantes Puerto 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1987,
+    "popularidad": 78,
+    "titulos": 7,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Defensores Puerto 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1988,
+    "popularidad": 79,
+    "titulos": 8,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Independiente Puerto 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1989,
+    "popularidad": 80,
+    "titulos": 9,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Nacional Puerto 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1990,
+    "popularidad": 81,
+    "titulos": 10,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Racing Puerto 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1991,
+    "popularidad": 82,
+    "titulos": 11,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Real Puerto 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1992,
+    "popularidad": 83,
+    "titulos": 12,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "San Martin Puerto 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1993,
+    "popularidad": 84,
+    "titulos": 13,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Libertad Puerto 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1994,
+    "popularidad": 85,
+    "titulos": 14,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Municipal Puerto 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1995,
+    "popularidad": 86,
+    "titulos": 15,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Universitario Puerto 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1996,
+    "popularidad": 87,
+    "titulos": 16,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Olimpico Puerto 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1997,
+    "popularidad": 88,
+    "titulos": 17,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Ciudad Puerto 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1998,
+    "popularidad": 89,
+    "titulos": 18,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Social Puerto 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1999,
+    "popularidad": 90,
+    "titulos": 19,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Atletico Valle 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 2000,
+    "popularidad": 91,
+    "titulos": 20,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Deportivo Valle 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 2001,
+    "popularidad": 92,
+    "titulos": 21,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Sporting Valle 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 2002,
+    "popularidad": 93,
+    "titulos": 22,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Union Valle 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 2003,
+    "popularidad": 94,
+    "titulos": 23,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Central Valle 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 2004,
+    "popularidad": 95,
+    "titulos": 24,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Juventud Valle 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 2005,
+    "popularidad": 96,
+    "titulos": 0,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Academia Valle 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 2006,
+    "popularidad": 97,
+    "titulos": 1,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Estudiantes Valle 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 2007,
+    "popularidad": 98,
+    "titulos": 2,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Defensores Valle 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 2008,
+    "popularidad": 35,
+    "titulos": 3,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Independiente Valle 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 2009,
+    "popularidad": 36,
+    "titulos": 4,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Nacional Valle 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1880,
+    "popularidad": 37,
+    "titulos": 5,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Racing Valle 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1881,
+    "popularidad": 38,
+    "titulos": 6,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Real Valle 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1882,
+    "popularidad": 39,
+    "titulos": 7,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "San Martin Valle 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1883,
+    "popularidad": 40,
+    "titulos": 8,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Libertad Valle 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1884,
+    "popularidad": 41,
+    "titulos": 9,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Municipal Valle 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1885,
+    "popularidad": 42,
+    "titulos": 10,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Universitario Valle 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1886,
+    "popularidad": 43,
+    "titulos": 11,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Olimpico Valle 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1887,
+    "popularidad": 44,
+    "titulos": 12,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Ciudad Valle 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1888,
+    "popularidad": 45,
+    "titulos": 13,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Social Valle 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1889,
+    "popularidad": 46,
+    "titulos": 14,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Atletico Sierra 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1890,
+    "popularidad": 47,
+    "titulos": 15,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Deportivo Sierra 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1891,
+    "popularidad": 48,
+    "titulos": 16,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Sporting Sierra 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1892,
+    "popularidad": 49,
+    "titulos": 17,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Union Sierra 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1893,
+    "popularidad": 50,
+    "titulos": 18,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Central Sierra 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1894,
+    "popularidad": 51,
+    "titulos": 19,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Juventud Sierra 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1895,
+    "popularidad": 52,
+    "titulos": 20,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Academia Sierra 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1896,
+    "popularidad": 53,
+    "titulos": 21,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Estudiantes Sierra 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1897,
+    "popularidad": 54,
+    "titulos": 22,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Defensores Sierra 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1898,
+    "popularidad": 55,
+    "titulos": 23,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Independiente Sierra 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1899,
+    "popularidad": 56,
+    "titulos": 24,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Nacional Sierra 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1900,
+    "popularidad": 57,
+    "titulos": 0,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Racing Sierra 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1901,
+    "popularidad": 58,
+    "titulos": 1,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Real Sierra 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1902,
+    "popularidad": 59,
+    "titulos": 2,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "San Martin Sierra 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1903,
+    "popularidad": 60,
+    "titulos": 3,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Libertad Sierra 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1904,
+    "popularidad": 61,
+    "titulos": 4,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Municipal Sierra 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1905,
+    "popularidad": 62,
+    "titulos": 5,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Universitario Sierra 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1906,
+    "popularidad": 63,
+    "titulos": 6,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Olimpico Sierra 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1907,
+    "popularidad": 64,
+    "titulos": 7,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Ciudad Sierra 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1908,
+    "popularidad": 65,
+    "titulos": 8,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Social Sierra 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1909,
+    "popularidad": 66,
+    "titulos": 9,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Atletico Rio 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1910,
+    "popularidad": 67,
+    "titulos": 10,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Deportivo Rio 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1911,
+    "popularidad": 68,
+    "titulos": 11,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Sporting Rio 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1912,
+    "popularidad": 69,
+    "titulos": 12,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Union Rio 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1913,
+    "popularidad": 70,
+    "titulos": 13,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Central Rio 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1914,
+    "popularidad": 71,
+    "titulos": 14,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Juventud Rio 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1915,
+    "popularidad": 72,
+    "titulos": 15,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Academia Rio 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1916,
+    "popularidad": 73,
+    "titulos": 16,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Estudiantes Rio 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1917,
+    "popularidad": 74,
+    "titulos": 17,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Defensores Rio 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1918,
+    "popularidad": 75,
+    "titulos": 18,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Independiente Rio 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1919,
+    "popularidad": 76,
+    "titulos": 19,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Nacional Rio 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1920,
+    "popularidad": 77,
+    "titulos": 20,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Racing Rio 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1921,
+    "popularidad": 78,
+    "titulos": 21,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Real Rio 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1922,
+    "popularidad": 79,
+    "titulos": 22,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "San Martin Rio 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1923,
+    "popularidad": 80,
+    "titulos": 23,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Libertad Rio 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1924,
+    "popularidad": 81,
+    "titulos": 24,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Municipal Rio 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1925,
+    "popularidad": 82,
+    "titulos": 0,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Universitario Rio 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1926,
+    "popularidad": 83,
+    "titulos": 1,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Olimpico Rio 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1927,
+    "popularidad": 84,
+    "titulos": 2,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Ciudad Rio 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1928,
+    "popularidad": 85,
+    "titulos": 3,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Social Rio 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1929,
+    "popularidad": 86,
+    "titulos": 4,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Atletico Costa 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1930,
+    "popularidad": 87,
+    "titulos": 5,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Deportivo Costa 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1931,
+    "popularidad": 88,
+    "titulos": 6,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Sporting Costa 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1932,
+    "popularidad": 89,
+    "titulos": 7,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Union Costa 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1933,
+    "popularidad": 90,
+    "titulos": 8,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Central Costa 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1934,
+    "popularidad": 91,
+    "titulos": 9,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Juventud Costa 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1935,
+    "popularidad": 92,
+    "titulos": 10,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Academia Costa 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1936,
+    "popularidad": 93,
+    "titulos": 11,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Estudiantes Costa 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1937,
+    "popularidad": 94,
+    "titulos": 12,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Defensores Costa 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1938,
+    "popularidad": 95,
+    "titulos": 13,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Independiente Costa 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1939,
+    "popularidad": 96,
+    "titulos": 14,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Nacional Costa 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1940,
+    "popularidad": 97,
+    "titulos": 15,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Racing Costa 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1941,
+    "popularidad": 98,
+    "titulos": 16,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Real Costa 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1942,
+    "popularidad": 35,
+    "titulos": 17,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "San Martin Costa 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1943,
+    "popularidad": 36,
+    "titulos": 18,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Libertad Costa 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1944,
+    "popularidad": 37,
+    "titulos": 19,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Municipal Costa 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1945,
+    "popularidad": 38,
+    "titulos": 20,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Universitario Costa 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1946,
+    "popularidad": 39,
+    "titulos": 21,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Olimpico Costa 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1947,
+    "popularidad": 40,
+    "titulos": 22,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Ciudad Costa 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1948,
+    "popularidad": 41,
+    "titulos": 23,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Social Costa 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1949,
+    "popularidad": 42,
+    "titulos": 24,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Atletico Lago 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1950,
+    "popularidad": 43,
+    "titulos": 0,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Deportivo Lago 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1951,
+    "popularidad": 44,
+    "titulos": 1,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Sporting Lago 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1952,
+    "popularidad": 45,
+    "titulos": 2,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Union Lago 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1953,
+    "popularidad": 46,
+    "titulos": 3,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Central Lago 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1954,
+    "popularidad": 47,
+    "titulos": 4,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Juventud Lago 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1955,
+    "popularidad": 48,
+    "titulos": 5,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Academia Lago 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1956,
+    "popularidad": 49,
+    "titulos": 6,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Estudiantes Lago 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1957,
+    "popularidad": 50,
+    "titulos": 7,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Defensores Lago 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1958,
+    "popularidad": 51,
+    "titulos": 8,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Independiente Lago 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1959,
+    "popularidad": 52,
+    "titulos": 9,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Nacional Lago 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1960,
+    "popularidad": 53,
+    "titulos": 10,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Racing Lago 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1961,
+    "popularidad": 54,
+    "titulos": 11,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Real Lago 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1962,
+    "popularidad": 55,
+    "titulos": 12,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "San Martin Lago 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1963,
+    "popularidad": 56,
+    "titulos": 13,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Libertad Lago 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1964,
+    "popularidad": 57,
+    "titulos": 14,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Municipal Lago 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1965,
+    "popularidad": 58,
+    "titulos": 15,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Universitario Lago 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1966,
+    "popularidad": 59,
+    "titulos": 16,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Olimpico Lago 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1967,
+    "popularidad": 60,
+    "titulos": 17,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Ciudad Lago 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1968,
+    "popularidad": 61,
+    "titulos": 18,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Social Lago 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1969,
+    "popularidad": 62,
+    "titulos": 19,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Atletico Monte 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1970,
+    "popularidad": 63,
+    "titulos": 20,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Deportivo Monte 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1971,
+    "popularidad": 64,
+    "titulos": 21,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Sporting Monte 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1972,
+    "popularidad": 65,
+    "titulos": 22,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Union Monte 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1973,
+    "popularidad": 66,
+    "titulos": 23,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Central Monte 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1974,
+    "popularidad": 67,
+    "titulos": 24,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Juventud Monte 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1975,
+    "popularidad": 68,
+    "titulos": 0,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Academia Monte 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1976,
+    "popularidad": 69,
+    "titulos": 1,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Estudiantes Monte 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1977,
+    "popularidad": 70,
+    "titulos": 2,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Defensores Monte 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1978,
+    "popularidad": 71,
+    "titulos": 3,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Independiente Monte 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1979,
+    "popularidad": 72,
+    "titulos": 4,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Nacional Monte 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1980,
+    "popularidad": 73,
+    "titulos": 5,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Racing Monte 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1981,
+    "popularidad": 74,
+    "titulos": 6,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Real Monte 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1982,
+    "popularidad": 75,
+    "titulos": 7,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "San Martin Monte 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1983,
+    "popularidad": 76,
+    "titulos": 8,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Libertad Monte 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1984,
+    "popularidad": 77,
+    "titulos": 9,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Municipal Monte 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1985,
+    "popularidad": 78,
+    "titulos": 10,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Universitario Monte 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1986,
+    "popularidad": 79,
+    "titulos": 11,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Olimpico Monte 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1987,
+    "popularidad": 80,
+    "titulos": 12,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Ciudad Monte 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1988,
+    "popularidad": 81,
+    "titulos": 13,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Social Monte 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1989,
+    "popularidad": 82,
+    "titulos": 14,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Atletico Sol 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1990,
+    "popularidad": 83,
+    "titulos": 15,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Deportivo Sol 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1991,
+    "popularidad": 84,
+    "titulos": 16,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Sporting Sol 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1992,
+    "popularidad": 85,
+    "titulos": 17,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Union Sol 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1993,
+    "popularidad": 86,
+    "titulos": 18,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Central Sol 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1994,
+    "popularidad": 87,
+    "titulos": 19,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Juventud Sol 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1995,
+    "popularidad": 88,
+    "titulos": 20,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Academia Sol 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1996,
+    "popularidad": 89,
+    "titulos": 21,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Estudiantes Sol 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1997,
+    "popularidad": 90,
+    "titulos": 22,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Defensores Sol 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1998,
+    "popularidad": 91,
+    "titulos": 23,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Independiente Sol 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1999,
+    "popularidad": 92,
+    "titulos": 24,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Nacional Sol 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 2000,
+    "popularidad": 93,
+    "titulos": 0,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Racing Sol 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 2001,
+    "popularidad": 94,
+    "titulos": 1,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Real Sol 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 2002,
+    "popularidad": 95,
+    "titulos": 2,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "San Martin Sol 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 2003,
+    "popularidad": 96,
+    "titulos": 3,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Libertad Sol 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 2004,
+    "popularidad": 97,
+    "titulos": 4,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Municipal Sol 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 2005,
+    "popularidad": 98,
+    "titulos": 5,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Universitario Sol 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 2006,
+    "popularidad": 35,
+    "titulos": 6,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Olimpico Sol 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 2007,
+    "popularidad": 36,
+    "titulos": 7,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Ciudad Sol 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 2008,
+    "popularidad": 37,
+    "titulos": 8,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Social Sol 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 2009,
+    "popularidad": 38,
+    "titulos": 9,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Atletico Luna 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1880,
+    "popularidad": 39,
+    "titulos": 10,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Deportivo Luna 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1881,
+    "popularidad": 40,
+    "titulos": 11,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Sporting Luna 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1882,
+    "popularidad": 41,
+    "titulos": 12,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Union Luna 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1883,
+    "popularidad": 42,
+    "titulos": 13,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Central Luna 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1884,
+    "popularidad": 43,
+    "titulos": 14,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Juventud Luna 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1885,
+    "popularidad": 44,
+    "titulos": 15,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Academia Luna 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1886,
+    "popularidad": 45,
+    "titulos": 16,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Estudiantes Luna 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1887,
+    "popularidad": 46,
+    "titulos": 17,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Defensores Luna 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1888,
+    "popularidad": 47,
+    "titulos": 18,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Independiente Luna 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1889,
+    "popularidad": 48,
+    "titulos": 19,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Nacional Luna 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1890,
+    "popularidad": 49,
+    "titulos": 20,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Racing Luna 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1891,
+    "popularidad": 50,
+    "titulos": 21,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Real Luna 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1892,
+    "popularidad": 51,
+    "titulos": 22,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "San Martin Luna 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1893,
+    "popularidad": 52,
+    "titulos": 23,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Libertad Luna 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1894,
+    "popularidad": 53,
+    "titulos": 24,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Municipal Luna 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1895,
+    "popularidad": 54,
+    "titulos": 0,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Universitario Luna 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1896,
+    "popularidad": 55,
+    "titulos": 1,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Olimpico Luna 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1897,
+    "popularidad": 56,
+    "titulos": 2,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Ciudad Luna 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1898,
+    "popularidad": 57,
+    "titulos": 3,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Social Luna 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1899,
+    "popularidad": 58,
+    "titulos": 4,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Atletico Andes 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1900,
+    "popularidad": 59,
+    "titulos": 5,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Deportivo Andes 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1901,
+    "popularidad": 60,
+    "titulos": 6,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Sporting Andes 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1902,
+    "popularidad": 61,
+    "titulos": 7,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Union Andes 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1903,
+    "popularidad": 62,
+    "titulos": 8,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Central Andes 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1904,
+    "popularidad": 63,
+    "titulos": 9,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Juventud Andes 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1905,
+    "popularidad": 64,
+    "titulos": 10,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Academia Andes 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1906,
+    "popularidad": 65,
+    "titulos": 11,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Estudiantes Andes 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1907,
+    "popularidad": 66,
+    "titulos": 12,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Defensores Andes 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1908,
+    "popularidad": 67,
+    "titulos": 13,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Independiente Andes 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1909,
+    "popularidad": 68,
+    "titulos": 14,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Nacional Andes 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1910,
+    "popularidad": 69,
+    "titulos": 15,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Racing Andes 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1911,
+    "popularidad": 70,
+    "titulos": 16,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Real Andes 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1912,
+    "popularidad": 71,
+    "titulos": 17,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "San Martin Andes 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1913,
+    "popularidad": 72,
+    "titulos": 18,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Libertad Andes 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1914,
+    "popularidad": 73,
+    "titulos": 19,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Municipal Andes 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1915,
+    "popularidad": 74,
+    "titulos": 20,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Universitario Andes 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1916,
+    "popularidad": 75,
+    "titulos": 21,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Olimpico Andes 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1917,
+    "popularidad": 76,
+    "titulos": 22,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Ciudad Andes 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1918,
+    "popularidad": 77,
+    "titulos": 23,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Social Andes 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1919,
+    "popularidad": 78,
+    "titulos": 24,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Atletico Atlantico 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1920,
+    "popularidad": 79,
+    "titulos": 0,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Deportivo Atlantico 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1921,
+    "popularidad": 80,
+    "titulos": 1,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Sporting Atlantico 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1922,
+    "popularidad": 81,
+    "titulos": 2,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Union Atlantico 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1923,
+    "popularidad": 82,
+    "titulos": 3,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Central Atlantico 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1924,
+    "popularidad": 83,
+    "titulos": 4,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Juventud Atlantico 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1925,
+    "popularidad": 84,
+    "titulos": 5,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Academia Atlantico 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1926,
+    "popularidad": 85,
+    "titulos": 6,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Estudiantes Atlantico 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1927,
+    "popularidad": 86,
+    "titulos": 7,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Defensores Atlantico 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1928,
+    "popularidad": 87,
+    "titulos": 8,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Independiente Atlantico 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1929,
+    "popularidad": 88,
+    "titulos": 9,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Nacional Atlantico 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1930,
+    "popularidad": 89,
+    "titulos": 10,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Racing Atlantico 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1931,
+    "popularidad": 90,
+    "titulos": 11,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Real Atlantico 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1932,
+    "popularidad": 91,
+    "titulos": 12,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "San Martin Atlantico 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1933,
+    "popularidad": 92,
+    "titulos": 13,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Libertad Atlantico 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1934,
+    "popularidad": 93,
+    "titulos": 14,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Municipal Atlantico 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1935,
+    "popularidad": 94,
+    "titulos": 15,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Universitario Atlantico 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1936,
+    "popularidad": 95,
+    "titulos": 16,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Olimpico Atlantico 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1937,
+    "popularidad": 96,
+    "titulos": 17,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Ciudad Atlantico 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1938,
+    "popularidad": 97,
+    "titulos": 18,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Social Atlantico 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1939,
+    "popularidad": 98,
+    "titulos": 19,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Atletico Pacifico 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1940,
+    "popularidad": 35,
+    "titulos": 20,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Deportivo Pacifico 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1941,
+    "popularidad": 36,
+    "titulos": 21,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Sporting Pacifico 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1942,
+    "popularidad": 37,
+    "titulos": 22,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Union Pacifico 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1943,
+    "popularidad": 38,
+    "titulos": 23,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Central Pacifico 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1944,
+    "popularidad": 39,
+    "titulos": 24,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Juventud Pacifico 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1945,
+    "popularidad": 40,
+    "titulos": 0,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Academia Pacifico 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1946,
+    "popularidad": 41,
+    "titulos": 1,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Estudiantes Pacifico 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1947,
+    "popularidad": 42,
+    "titulos": 2,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Defensores Pacifico 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1948,
+    "popularidad": 43,
+    "titulos": 3,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Independiente Pacifico 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1949,
+    "popularidad": 44,
+    "titulos": 4,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Nacional Pacifico 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1950,
+    "popularidad": 45,
+    "titulos": 5,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Racing Pacifico 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1951,
+    "popularidad": 46,
+    "titulos": 6,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Real Pacifico 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1952,
+    "popularidad": 47,
+    "titulos": 7,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "San Martin Pacifico 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1953,
+    "popularidad": 48,
+    "titulos": 8,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Libertad Pacifico 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1954,
+    "popularidad": 49,
+    "titulos": 9,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Municipal Pacifico 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1955,
+    "popularidad": 50,
+    "titulos": 10,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Universitario Pacifico 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1956,
+    "popularidad": 51,
+    "titulos": 11,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Olimpico Pacifico 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1957,
+    "popularidad": 52,
+    "titulos": 12,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Ciudad Pacifico 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1958,
+    "popularidad": 53,
+    "titulos": 13,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Social Pacifico 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1959,
+    "popularidad": 54,
+    "titulos": 14,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Atletico Federal 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1960,
+    "popularidad": 55,
+    "titulos": 15,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Deportivo Federal 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1961,
+    "popularidad": 56,
+    "titulos": 16,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Sporting Federal 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1962,
+    "popularidad": 57,
+    "titulos": 17,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Union Federal 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1963,
+    "popularidad": 58,
+    "titulos": 18,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Central Federal 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1964,
+    "popularidad": 59,
+    "titulos": 19,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Juventud Federal 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1965,
+    "popularidad": 60,
+    "titulos": 20,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Academia Federal 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1966,
+    "popularidad": 61,
+    "titulos": 21,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Estudiantes Federal 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1967,
+    "popularidad": 62,
+    "titulos": 22,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Defensores Federal 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1968,
+    "popularidad": 63,
+    "titulos": 23,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Independiente Federal 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1969,
+    "popularidad": 64,
+    "titulos": 24,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Nacional Federal 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1970,
+    "popularidad": 65,
+    "titulos": 0,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Racing Federal 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1971,
+    "popularidad": 66,
+    "titulos": 1,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Real Federal 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1972,
+    "popularidad": 67,
+    "titulos": 2,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "San Martin Federal 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1973,
+    "popularidad": 68,
+    "titulos": 3,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Libertad Federal 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1974,
+    "popularidad": 69,
+    "titulos": 4,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Municipal Federal 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1975,
+    "popularidad": 70,
+    "titulos": 5,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Universitario Federal 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1976,
+    "popularidad": 71,
+    "titulos": 6,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Olimpico Federal 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1977,
+    "popularidad": 72,
+    "titulos": 7,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Ciudad Federal 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1978,
+    "popularidad": 73,
+    "titulos": 8,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Social Federal 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1979,
+    "popularidad": 74,
+    "titulos": 9,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Atletico Metropolitano 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1980,
+    "popularidad": 75,
+    "titulos": 10,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Deportivo Metropolitano 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1981,
+    "popularidad": 76,
+    "titulos": 11,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Sporting Metropolitano 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1982,
+    "popularidad": 77,
+    "titulos": 12,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Union Metropolitano 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1983,
+    "popularidad": 78,
+    "titulos": 13,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Central Metropolitano 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1984,
+    "popularidad": 79,
+    "titulos": 14,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Juventud Metropolitano 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1985,
+    "popularidad": 80,
+    "titulos": 15,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Academia Metropolitano 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1986,
+    "popularidad": 81,
+    "titulos": 16,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Estudiantes Metropolitano 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1987,
+    "popularidad": 82,
+    "titulos": 17,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Defensores Metropolitano 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1988,
+    "popularidad": 83,
+    "titulos": 18,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Independiente Metropolitano 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1989,
+    "popularidad": 84,
+    "titulos": 19,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Nacional Metropolitano 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1990,
+    "popularidad": 85,
+    "titulos": 20,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Racing Metropolitano 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1991,
+    "popularidad": 86,
+    "titulos": 21,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Real Metropolitano 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1992,
+    "popularidad": 87,
+    "titulos": 22,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "San Martin Metropolitano 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1993,
+    "popularidad": 88,
+    "titulos": 23,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Libertad Metropolitano 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1994,
+    "popularidad": 89,
+    "titulos": 24,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Municipal Metropolitano 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1995,
+    "popularidad": 90,
+    "titulos": 0,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Universitario Metropolitano 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1996,
+    "popularidad": 91,
+    "titulos": 1,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Olimpico Metropolitano 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1997,
+    "popularidad": 92,
+    "titulos": 2,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Ciudad Metropolitano 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1998,
+    "popularidad": 93,
+    "titulos": 3,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Social Metropolitano 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1999,
+    "popularidad": 94,
+    "titulos": 4,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Atletico Regional 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 2000,
+    "popularidad": 95,
+    "titulos": 5,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Deportivo Regional 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 2001,
+    "popularidad": 96,
+    "titulos": 6,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Sporting Regional 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 2002,
+    "popularidad": 97,
+    "titulos": 7,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Union Regional 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 2003,
+    "popularidad": 98,
+    "titulos": 8,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Central Regional 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 2004,
+    "popularidad": 35,
+    "titulos": 9,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Juventud Regional 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 2005,
+    "popularidad": 36,
+    "titulos": 10,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Academia Regional 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 2006,
+    "popularidad": 37,
+    "titulos": 11,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Estudiantes Regional 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 2007,
+    "popularidad": 38,
+    "titulos": 12,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Defensores Regional 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 2008,
+    "popularidad": 39,
+    "titulos": 13,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Independiente Regional 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 2009,
+    "popularidad": 40,
+    "titulos": 14,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Nacional Regional 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1880,
+    "popularidad": 41,
+    "titulos": 15,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Racing Regional 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1881,
+    "popularidad": 42,
+    "titulos": 16,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Real Regional 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1882,
+    "popularidad": 43,
+    "titulos": 17,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "San Martin Regional 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1883,
+    "popularidad": 44,
+    "titulos": 18,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Libertad Regional 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1884,
+    "popularidad": 45,
+    "titulos": 19,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Municipal Regional 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1885,
+    "popularidad": 46,
+    "titulos": 20,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Universitario Regional 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1886,
+    "popularidad": 47,
+    "titulos": 21,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Olimpico Regional 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1887,
+    "popularidad": 48,
+    "titulos": 22,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Ciudad Regional 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1888,
+    "popularidad": 49,
+    "titulos": 23,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Social Regional 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1889,
+    "popularidad": 50,
+    "titulos": 24,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Atletico Aurora 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1890,
+    "popularidad": 51,
+    "titulos": 0,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Deportivo Aurora 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1891,
+    "popularidad": 52,
+    "titulos": 1,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Sporting Aurora 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1892,
+    "popularidad": 53,
+    "titulos": 2,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Union Aurora 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1893,
+    "popularidad": 54,
+    "titulos": 3,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Central Aurora 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1894,
+    "popularidad": 55,
+    "titulos": 4,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Juventud Aurora 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1895,
+    "popularidad": 56,
+    "titulos": 5,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Academia Aurora 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1896,
+    "popularidad": 57,
+    "titulos": 6,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Estudiantes Aurora 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1897,
+    "popularidad": 58,
+    "titulos": 7,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Defensores Aurora 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1898,
+    "popularidad": 59,
+    "titulos": 8,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Independiente Aurora 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1899,
+    "popularidad": 60,
+    "titulos": 9,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Nacional Aurora 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1900,
+    "popularidad": 61,
+    "titulos": 10,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Racing Aurora 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1901,
+    "popularidad": 62,
+    "titulos": 11,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Real Aurora 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1902,
+    "popularidad": 63,
+    "titulos": 12,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "San Martin Aurora 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1903,
+    "popularidad": 64,
+    "titulos": 13,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Libertad Aurora 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1904,
+    "popularidad": 65,
+    "titulos": 14,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Municipal Aurora 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1905,
+    "popularidad": 66,
+    "titulos": 15,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Universitario Aurora 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1906,
+    "popularidad": 67,
+    "titulos": 16,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Olimpico Aurora 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1907,
+    "popularidad": 68,
+    "titulos": 17,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Ciudad Aurora 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1908,
+    "popularidad": 69,
+    "titulos": 18,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Social Aurora 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1909,
+    "popularidad": 70,
+    "titulos": 19,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Atletico Victoria 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1910,
+    "popularidad": 71,
+    "titulos": 20,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Deportivo Victoria 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1911,
+    "popularidad": 72,
+    "titulos": 21,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Sporting Victoria 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1912,
+    "popularidad": 73,
+    "titulos": 22,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Union Victoria 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1913,
+    "popularidad": 74,
+    "titulos": 23,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Central Victoria 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1914,
+    "popularidad": 75,
+    "titulos": 24,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Juventud Victoria 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1915,
+    "popularidad": 76,
+    "titulos": 0,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Academia Victoria 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1916,
+    "popularidad": 77,
+    "titulos": 1,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Estudiantes Victoria 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1917,
+    "popularidad": 78,
+    "titulos": 2,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Defensores Victoria 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1918,
+    "popularidad": 79,
+    "titulos": 3,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Independiente Victoria 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1919,
+    "popularidad": 80,
+    "titulos": 4,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Nacional Victoria 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1920,
+    "popularidad": 81,
+    "titulos": 5,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Racing Victoria 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1921,
+    "popularidad": 82,
+    "titulos": 6,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Real Victoria 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1922,
+    "popularidad": 83,
+    "titulos": 7,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "San Martin Victoria 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1923,
+    "popularidad": 84,
+    "titulos": 8,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Libertad Victoria 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1924,
+    "popularidad": 85,
+    "titulos": 9,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Municipal Victoria 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1925,
+    "popularidad": 86,
+    "titulos": 10,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Universitario Victoria 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1926,
+    "popularidad": 87,
+    "titulos": 11,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Olimpico Victoria 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1927,
+    "popularidad": 88,
+    "titulos": 12,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Ciudad Victoria 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1928,
+    "popularidad": 89,
+    "titulos": 13,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Social Victoria 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1929,
+    "popularidad": 90,
+    "titulos": 14,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Atletico Progreso 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1930,
+    "popularidad": 91,
+    "titulos": 15,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Deportivo Progreso 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1931,
+    "popularidad": 92,
+    "titulos": 16,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Sporting Progreso 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1932,
+    "popularidad": 93,
+    "titulos": 17,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Union Progreso 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1933,
+    "popularidad": 94,
+    "titulos": 18,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Central Progreso 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1934,
+    "popularidad": 95,
+    "titulos": 19,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Juventud Progreso 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1935,
+    "popularidad": 96,
+    "titulos": 20,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Academia Progreso 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1936,
+    "popularidad": 97,
+    "titulos": 21,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Estudiantes Progreso 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1937,
+    "popularidad": 98,
+    "titulos": 22,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Defensores Progreso 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1938,
+    "popularidad": 35,
+    "titulos": 23,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Independiente Progreso 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1939,
+    "popularidad": 36,
+    "titulos": 24,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Nacional Progreso 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1940,
+    "popularidad": 37,
+    "titulos": 0,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Racing Progreso 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1941,
+    "popularidad": 38,
+    "titulos": 1,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Real Progreso 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1942,
+    "popularidad": 39,
+    "titulos": 2,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "San Martin Progreso 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1943,
+    "popularidad": 40,
+    "titulos": 3,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Libertad Progreso 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1944,
+    "popularidad": 41,
+    "titulos": 4,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Municipal Progreso 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1945,
+    "popularidad": 42,
+    "titulos": 5,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Universitario Progreso 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1946,
+    "popularidad": 43,
+    "titulos": 6,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Olimpico Progreso 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1947,
+    "popularidad": 44,
+    "titulos": 7,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Ciudad Progreso 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1948,
+    "popularidad": 45,
+    "titulos": 8,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Social Progreso 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1949,
+    "popularidad": 46,
+    "titulos": 9,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Atletico Libertador 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1950,
+    "popularidad": 47,
+    "titulos": 10,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Deportivo Libertador 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1951,
+    "popularidad": 48,
+    "titulos": 11,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Sporting Libertador 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1952,
+    "popularidad": 49,
+    "titulos": 12,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Union Libertador 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1953,
+    "popularidad": 50,
+    "titulos": 13,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Central Libertador 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1954,
+    "popularidad": 51,
+    "titulos": 14,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Juventud Libertador 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1955,
+    "popularidad": 52,
+    "titulos": 15,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Academia Libertador 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1956,
+    "popularidad": 53,
+    "titulos": 16,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Estudiantes Libertador 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1957,
+    "popularidad": 54,
+    "titulos": 17,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Defensores Libertador 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1958,
+    "popularidad": 55,
+    "titulos": 18,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Independiente Libertador 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1959,
+    "popularidad": 56,
+    "titulos": 19,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Nacional Libertador 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1960,
+    "popularidad": 57,
+    "titulos": 20,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Racing Libertador 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1961,
+    "popularidad": 58,
+    "titulos": 21,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Real Libertador 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1962,
+    "popularidad": 59,
+    "titulos": 22,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "San Martin Libertador 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1963,
+    "popularidad": 60,
+    "titulos": 23,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Libertad Libertador 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1964,
+    "popularidad": 61,
+    "titulos": 24,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Municipal Libertador 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1965,
+    "popularidad": 62,
+    "titulos": 0,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Universitario Libertador 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1966,
+    "popularidad": 63,
+    "titulos": 1,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Olimpico Libertador 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1967,
+    "popularidad": 64,
+    "titulos": 2,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Ciudad Libertador 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1968,
+    "popularidad": 65,
+    "titulos": 3,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Social Libertador 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1969,
+    "popularidad": 66,
+    "titulos": 4,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Atletico Centenario 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1970,
+    "popularidad": 67,
+    "titulos": 5,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Deportivo Centenario 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1971,
+    "popularidad": 68,
+    "titulos": 6,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Sporting Centenario 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1972,
+    "popularidad": 69,
+    "titulos": 7,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Union Centenario 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1973,
+    "popularidad": 70,
+    "titulos": 8,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Central Centenario 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1974,
+    "popularidad": 71,
+    "titulos": 9,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Juventud Centenario 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1975,
+    "popularidad": 72,
+    "titulos": 10,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Academia Centenario 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1976,
+    "popularidad": 73,
+    "titulos": 11,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Estudiantes Centenario 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1977,
+    "popularidad": 74,
+    "titulos": 12,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Defensores Centenario 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1978,
+    "popularidad": 75,
+    "titulos": 13,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Independiente Centenario 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1979,
+    "popularidad": 76,
+    "titulos": 14,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Nacional Centenario 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1980,
+    "popularidad": 77,
+    "titulos": 15,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Racing Centenario 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1981,
+    "popularidad": 78,
+    "titulos": 16,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Real Centenario 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1982,
+    "popularidad": 79,
+    "titulos": 17,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "San Martin Centenario 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1983,
+    "popularidad": 80,
+    "titulos": 18,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Libertad Centenario 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1984,
+    "popularidad": 81,
+    "titulos": 19,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Municipal Centenario 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1985,
+    "popularidad": 82,
+    "titulos": 20,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Universitario Centenario 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1986,
+    "popularidad": 83,
+    "titulos": 21,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Olimpico Centenario 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1987,
+    "popularidad": 84,
+    "titulos": 22,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Ciudad Centenario 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1988,
+    "popularidad": 85,
+    "titulos": 23,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Social Centenario 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1989,
+    "popularidad": 86,
+    "titulos": 24,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Atletico Meridiano 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1990,
+    "popularidad": 87,
+    "titulos": 0,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Deportivo Meridiano 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1991,
+    "popularidad": 88,
+    "titulos": 1,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Sporting Meridiano 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1992,
+    "popularidad": 89,
+    "titulos": 2,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Union Meridiano 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1993,
+    "popularidad": 90,
+    "titulos": 3,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Central Meridiano 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1994,
+    "popularidad": 91,
+    "titulos": 4,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Juventud Meridiano 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1995,
+    "popularidad": 92,
+    "titulos": 5,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Academia Meridiano 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1996,
+    "popularidad": 93,
+    "titulos": 6,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Estudiantes Meridiano 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1997,
+    "popularidad": 94,
+    "titulos": 7,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Defensores Meridiano 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1998,
+    "popularidad": 95,
+    "titulos": 8,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Independiente Meridiano 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1999,
+    "popularidad": 96,
+    "titulos": 9,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Nacional Meridiano 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 2000,
+    "popularidad": 97,
+    "titulos": 10,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Racing Meridiano 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 2001,
+    "popularidad": 98,
+    "titulos": 11,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Real Meridiano 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 2002,
+    "popularidad": 35,
+    "titulos": 12,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "San Martin Meridiano 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 2003,
+    "popularidad": 36,
+    "titulos": 13,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Libertad Meridiano 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 2004,
+    "popularidad": 37,
+    "titulos": 14,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Municipal Meridiano 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 2005,
+    "popularidad": 38,
+    "titulos": 15,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Universitario Meridiano 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 2006,
+    "popularidad": 39,
+    "titulos": 16,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Olimpico Meridiano 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 2007,
+    "popularidad": 40,
+    "titulos": 17,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Ciudad Meridiano 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 2008,
+    "popularidad": 41,
+    "titulos": 18,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Social Meridiano 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 2009,
+    "popularidad": 42,
+    "titulos": 19,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Atletico Estrella 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1880,
+    "popularidad": 43,
+    "titulos": 20,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Deportivo Estrella 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1881,
+    "popularidad": 44,
+    "titulos": 21,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Sporting Estrella 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1882,
+    "popularidad": 45,
+    "titulos": 22,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Union Estrella 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1883,
+    "popularidad": 46,
+    "titulos": 23,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Central Estrella 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1884,
+    "popularidad": 47,
+    "titulos": 24,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Juventud Estrella 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1885,
+    "popularidad": 48,
+    "titulos": 0,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Academia Estrella 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1886,
+    "popularidad": 49,
+    "titulos": 1,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Estudiantes Estrella 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1887,
+    "popularidad": 50,
+    "titulos": 2,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Defensores Estrella 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1888,
+    "popularidad": 51,
+    "titulos": 3,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Independiente Estrella 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1889,
+    "popularidad": 52,
+    "titulos": 4,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Nacional Estrella 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1890,
+    "popularidad": 53,
+    "titulos": 5,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Racing Estrella 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1891,
+    "popularidad": 54,
+    "titulos": 6,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Real Estrella 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1892,
+    "popularidad": 55,
+    "titulos": 7,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "San Martin Estrella 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1893,
+    "popularidad": 56,
+    "titulos": 8,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Libertad Estrella 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1894,
+    "popularidad": 57,
+    "titulos": 9,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Municipal Estrella 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1895,
+    "popularidad": 58,
+    "titulos": 10,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Universitario Estrella 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1896,
+    "popularidad": 59,
+    "titulos": 11,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Olimpico Estrella 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1897,
+    "popularidad": 60,
+    "titulos": 12,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Ciudad Estrella 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1898,
+    "popularidad": 61,
+    "titulos": 13,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Social Estrella 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1899,
+    "popularidad": 62,
+    "titulos": 14,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Atletico Frontera 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1900,
+    "popularidad": 63,
+    "titulos": 15,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Deportivo Frontera 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1901,
+    "popularidad": 64,
+    "titulos": 16,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Sporting Frontera 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1902,
+    "popularidad": 65,
+    "titulos": 17,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Union Frontera 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1903,
+    "popularidad": 66,
+    "titulos": 18,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Central Frontera 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1904,
+    "popularidad": 67,
+    "titulos": 19,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Juventud Frontera 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1905,
+    "popularidad": 68,
+    "titulos": 20,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Academia Frontera 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1906,
+    "popularidad": 69,
+    "titulos": 21,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Estudiantes Frontera 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1907,
+    "popularidad": 70,
+    "titulos": 22,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Defensores Frontera 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1908,
+    "popularidad": 71,
+    "titulos": 23,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Independiente Frontera 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1909,
+    "popularidad": 72,
+    "titulos": 24,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Nacional Frontera 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1910,
+    "popularidad": 73,
+    "titulos": 0,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Racing Frontera 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1911,
+    "popularidad": 74,
+    "titulos": 1,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Real Frontera 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1912,
+    "popularidad": 75,
+    "titulos": 2,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "San Martin Frontera 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1913,
+    "popularidad": 76,
+    "titulos": 3,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Libertad Frontera 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1914,
+    "popularidad": 77,
+    "titulos": 4,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Municipal Frontera 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1915,
+    "popularidad": 78,
+    "titulos": 5,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Universitario Frontera 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1916,
+    "popularidad": 79,
+    "titulos": 6,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Olimpico Frontera 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1917,
+    "popularidad": 80,
+    "titulos": 7,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Ciudad Frontera 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1918,
+    "popularidad": 81,
+    "titulos": 8,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Social Frontera 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1919,
+    "popularidad": 82,
+    "titulos": 9,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Atletico Patria 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1920,
+    "popularidad": 83,
+    "titulos": 10,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Deportivo Patria 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1921,
+    "popularidad": 84,
+    "titulos": 11,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Sporting Patria 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1922,
+    "popularidad": 85,
+    "titulos": 12,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Union Patria 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1923,
+    "popularidad": 86,
+    "titulos": 13,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Central Patria 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1924,
+    "popularidad": 87,
+    "titulos": 14,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Juventud Patria 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1925,
+    "popularidad": 88,
+    "titulos": 15,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Academia Patria 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1926,
+    "popularidad": 89,
+    "titulos": 16,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Estudiantes Patria 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1927,
+    "popularidad": 90,
+    "titulos": 17,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Defensores Patria 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1928,
+    "popularidad": 91,
+    "titulos": 18,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Independiente Patria 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1929,
+    "popularidad": 92,
+    "titulos": 19,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Nacional Patria 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1930,
+    "popularidad": 93,
+    "titulos": 20,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Racing Patria 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1931,
+    "popularidad": 94,
+    "titulos": 21,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Real Patria 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1932,
+    "popularidad": 95,
+    "titulos": 22,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "San Martin Patria 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1933,
+    "popularidad": 96,
+    "titulos": 23,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Libertad Patria 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1934,
+    "popularidad": 97,
+    "titulos": 24,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Municipal Patria 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1935,
+    "popularidad": 98,
+    "titulos": 0,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Universitario Patria 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1936,
+    "popularidad": 35,
+    "titulos": 1,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Olimpico Patria 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1937,
+    "popularidad": 36,
+    "titulos": 2,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Ciudad Patria 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1938,
+    "popularidad": 37,
+    "titulos": 3,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Social Patria 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1939,
+    "popularidad": 38,
+    "titulos": 4,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Atletico Barrio 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1940,
+    "popularidad": 39,
+    "titulos": 5,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Deportivo Barrio 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1941,
+    "popularidad": 40,
+    "titulos": 6,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Sporting Barrio 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1942,
+    "popularidad": 41,
+    "titulos": 7,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Union Barrio 01",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1943,
+    "popularidad": 42,
+    "titulos": 8,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Central Barrio 01",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1944,
+    "popularidad": 43,
+    "titulos": 9,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Juventud Barrio 01",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1945,
+    "popularidad": 44,
+    "titulos": 10,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Academia Barrio 01",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1946,
+    "popularidad": 45,
+    "titulos": 11,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Estudiantes Barrio 01",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1947,
+    "popularidad": 46,
+    "titulos": 12,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Defensores Barrio 01",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1948,
+    "popularidad": 47,
+    "titulos": 13,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Independiente Barrio 01",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1949,
+    "popularidad": 48,
+    "titulos": 14,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Nacional Barrio 01",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1950,
+    "popularidad": 49,
+    "titulos": 15,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Racing Barrio 01",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1951,
+    "popularidad": 50,
+    "titulos": 16,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Real Barrio 01",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1952,
+    "popularidad": 51,
+    "titulos": 17,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "San Martin Barrio 01",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1953,
+    "popularidad": 52,
+    "titulos": 18,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Libertad Barrio 01",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1954,
+    "popularidad": 53,
+    "titulos": 19,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Municipal Barrio 01",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1955,
+    "popularidad": 54,
+    "titulos": 20,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Universitario Barrio 01",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1956,
+    "popularidad": 55,
+    "titulos": 21,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Olimpico Barrio 01",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1957,
+    "popularidad": 56,
+    "titulos": 22,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Ciudad Barrio 01",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1958,
+    "popularidad": 57,
+    "titulos": 23,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Social Barrio 01",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1959,
+    "popularidad": 58,
+    "titulos": 24,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Atletico Norte 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1960,
+    "popularidad": 59,
+    "titulos": 0,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Deportivo Norte 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1961,
+    "popularidad": 60,
+    "titulos": 1,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Sporting Norte 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1962,
+    "popularidad": 61,
+    "titulos": 2,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Union Norte 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1963,
+    "popularidad": 62,
+    "titulos": 3,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Central Norte 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1964,
+    "popularidad": 63,
+    "titulos": 4,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Juventud Norte 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1965,
+    "popularidad": 64,
+    "titulos": 5,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Academia Norte 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1966,
+    "popularidad": 65,
+    "titulos": 6,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Estudiantes Norte 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1967,
+    "popularidad": 66,
+    "titulos": 7,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Defensores Norte 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1968,
+    "popularidad": 67,
+    "titulos": 8,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Independiente Norte 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1969,
+    "popularidad": 68,
+    "titulos": 9,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Nacional Norte 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1970,
+    "popularidad": 69,
+    "titulos": 10,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Racing Norte 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1971,
+    "popularidad": 70,
+    "titulos": 11,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Real Norte 02",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1972,
+    "popularidad": 71,
+    "titulos": 12,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "San Martin Norte 02",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1973,
+    "popularidad": 72,
+    "titulos": 13,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Libertad Norte 02",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1974,
+    "popularidad": 73,
+    "titulos": 14,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Municipal Norte 02",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1975,
+    "popularidad": 74,
+    "titulos": 15,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Universitario Norte 02",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1976,
+    "popularidad": 75,
+    "titulos": 16,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Olimpico Norte 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1977,
+    "popularidad": 76,
+    "titulos": 17,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Ciudad Norte 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1978,
+    "popularidad": 77,
+    "titulos": 18,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Social Norte 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1979,
+    "popularidad": 78,
+    "titulos": 19,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Atletico Sur 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1980,
+    "popularidad": 79,
+    "titulos": 20,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Deportivo Sur 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1981,
+    "popularidad": 80,
+    "titulos": 21,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Sporting Sur 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1982,
+    "popularidad": 81,
+    "titulos": 22,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Union Sur 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1983,
+    "popularidad": 82,
+    "titulos": 23,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Central Sur 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1984,
+    "popularidad": 83,
+    "titulos": 24,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Juventud Sur 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1985,
+    "popularidad": 84,
+    "titulos": 0,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Academia Sur 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1986,
+    "popularidad": 85,
+    "titulos": 1,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Estudiantes Sur 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1987,
+    "popularidad": 86,
+    "titulos": 2,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Defensores Sur 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1988,
+    "popularidad": 87,
+    "titulos": 3,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Independiente Sur 02",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1989,
+    "popularidad": 88,
+    "titulos": 4,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Nacional Sur 02",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1990,
+    "popularidad": 89,
+    "titulos": 5,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Racing Sur 02",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1991,
+    "popularidad": 90,
+    "titulos": 6,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Real Sur 02",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1992,
+    "popularidad": 91,
+    "titulos": 7,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "San Martin Sur 02",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1993,
+    "popularidad": 92,
+    "titulos": 8,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Libertad Sur 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1994,
+    "popularidad": 93,
+    "titulos": 9,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Municipal Sur 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1995,
+    "popularidad": 94,
+    "titulos": 10,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Universitario Sur 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1996,
+    "popularidad": 95,
+    "titulos": 11,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Olimpico Sur 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1997,
+    "popularidad": 96,
+    "titulos": 12,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Ciudad Sur 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1998,
+    "popularidad": 97,
+    "titulos": 13,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Social Sur 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1999,
+    "popularidad": 98,
+    "titulos": 14,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Atletico Este 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 2000,
+    "popularidad": 35,
+    "titulos": 15,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Deportivo Este 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 2001,
+    "popularidad": 36,
+    "titulos": 16,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Sporting Este 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 2002,
+    "popularidad": 37,
+    "titulos": 17,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Union Este 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 2003,
+    "popularidad": 38,
+    "titulos": 18,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Central Este 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 2004,
+    "popularidad": 39,
+    "titulos": 19,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Juventud Este 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 2005,
+    "popularidad": 40,
+    "titulos": 20,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Academia Este 02",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 2006,
+    "popularidad": 41,
+    "titulos": 21,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Estudiantes Este 02",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 2007,
+    "popularidad": 42,
+    "titulos": 22,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Defensores Este 02",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 2008,
+    "popularidad": 43,
+    "titulos": 23,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Independiente Este 02",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 2009,
+    "popularidad": 44,
+    "titulos": 24,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Nacional Este 02",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1880,
+    "popularidad": 45,
+    "titulos": 0,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Racing Este 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1881,
+    "popularidad": 46,
+    "titulos": 1,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Real Este 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1882,
+    "popularidad": 47,
+    "titulos": 2,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "San Martin Este 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1883,
+    "popularidad": 48,
+    "titulos": 3,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Libertad Este 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1884,
+    "popularidad": 49,
+    "titulos": 4,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Municipal Este 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1885,
+    "popularidad": 50,
+    "titulos": 5,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Universitario Este 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1886,
+    "popularidad": 51,
+    "titulos": 6,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Olimpico Este 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1887,
+    "popularidad": 52,
+    "titulos": 7,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Ciudad Este 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1888,
+    "popularidad": 53,
+    "titulos": 8,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Social Este 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1889,
+    "popularidad": 54,
+    "titulos": 9,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Atletico Oeste 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1890,
+    "popularidad": 55,
+    "titulos": 10,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Deportivo Oeste 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1891,
+    "popularidad": 56,
+    "titulos": 11,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Sporting Oeste 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1892,
+    "popularidad": 57,
+    "titulos": 12,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Union Oeste 02",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1893,
+    "popularidad": 58,
+    "titulos": 13,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Central Oeste 02",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1894,
+    "popularidad": 59,
+    "titulos": 14,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Juventud Oeste 02",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1895,
+    "popularidad": 60,
+    "titulos": 15,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Academia Oeste 02",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1896,
+    "popularidad": 61,
+    "titulos": 16,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Estudiantes Oeste 02",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1897,
+    "popularidad": 62,
+    "titulos": 17,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Defensores Oeste 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1898,
+    "popularidad": 63,
+    "titulos": 18,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Independiente Oeste 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1899,
+    "popularidad": 64,
+    "titulos": 19,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Nacional Oeste 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1900,
+    "popularidad": 65,
+    "titulos": 20,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Racing Oeste 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1901,
+    "popularidad": 66,
+    "titulos": 21,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Real Oeste 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1902,
+    "popularidad": 67,
+    "titulos": 22,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "San Martin Oeste 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1903,
+    "popularidad": 68,
+    "titulos": 23,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Libertad Oeste 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1904,
+    "popularidad": 69,
+    "titulos": 24,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Municipal Oeste 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1905,
+    "popularidad": 70,
+    "titulos": 0,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Universitario Oeste 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1906,
+    "popularidad": 71,
+    "titulos": 1,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Olimpico Oeste 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1907,
+    "popularidad": 72,
+    "titulos": 2,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Ciudad Oeste 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1908,
+    "popularidad": 73,
+    "titulos": 3,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Social Oeste 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1909,
+    "popularidad": 74,
+    "titulos": 4,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Atletico Capital 02",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1910,
+    "popularidad": 75,
+    "titulos": 5,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Deportivo Capital 02",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1911,
+    "popularidad": 76,
+    "titulos": 6,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Sporting Capital 02",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1912,
+    "popularidad": 77,
+    "titulos": 7,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Union Capital 02",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1913,
+    "popularidad": 78,
+    "titulos": 8,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Central Capital 02",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1914,
+    "popularidad": 79,
+    "titulos": 9,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Juventud Capital 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1915,
+    "popularidad": 80,
+    "titulos": 10,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Academia Capital 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1916,
+    "popularidad": 81,
+    "titulos": 11,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Estudiantes Capital 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1917,
+    "popularidad": 82,
+    "titulos": 12,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Defensores Capital 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1918,
+    "popularidad": 83,
+    "titulos": 13,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Independiente Capital 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1919,
+    "popularidad": 84,
+    "titulos": 14,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Nacional Capital 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1920,
+    "popularidad": 85,
+    "titulos": 15,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Racing Capital 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1921,
+    "popularidad": 86,
+    "titulos": 16,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Real Capital 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1922,
+    "popularidad": 87,
+    "titulos": 17,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "San Martin Capital 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1923,
+    "popularidad": 88,
+    "titulos": 18,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Libertad Capital 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1924,
+    "popularidad": 89,
+    "titulos": 19,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Municipal Capital 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1925,
+    "popularidad": 90,
+    "titulos": 20,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Universitario Capital 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1926,
+    "popularidad": 91,
+    "titulos": 21,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Olimpico Capital 02",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1927,
+    "popularidad": 92,
+    "titulos": 22,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Ciudad Capital 02",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1928,
+    "popularidad": 93,
+    "titulos": 23,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Social Capital 02",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1929,
+    "popularidad": 94,
+    "titulos": 24,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Atletico Puerto 02",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1930,
+    "popularidad": 95,
+    "titulos": 0,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Deportivo Puerto 02",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1931,
+    "popularidad": 96,
+    "titulos": 1,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Sporting Puerto 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1932,
+    "popularidad": 97,
+    "titulos": 2,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Union Puerto 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1933,
+    "popularidad": 98,
+    "titulos": 3,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Central Puerto 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1934,
+    "popularidad": 35,
+    "titulos": 4,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Juventud Puerto 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1935,
+    "popularidad": 36,
+    "titulos": 5,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Academia Puerto 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1936,
+    "popularidad": 37,
+    "titulos": 6,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Estudiantes Puerto 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1937,
+    "popularidad": 38,
+    "titulos": 7,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Defensores Puerto 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1938,
+    "popularidad": 39,
+    "titulos": 8,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Independiente Puerto 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1939,
+    "popularidad": 40,
+    "titulos": 9,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Nacional Puerto 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1940,
+    "popularidad": 41,
+    "titulos": 10,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Racing Puerto 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1941,
+    "popularidad": 42,
+    "titulos": 11,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Real Puerto 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1942,
+    "popularidad": 43,
+    "titulos": 12,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "San Martin Puerto 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1943,
+    "popularidad": 44,
+    "titulos": 13,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Libertad Puerto 02",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1944,
+    "popularidad": 45,
+    "titulos": 14,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Municipal Puerto 02",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1945,
+    "popularidad": 46,
+    "titulos": 15,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Universitario Puerto 02",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1946,
+    "popularidad": 47,
+    "titulos": 16,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Olimpico Puerto 02",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1947,
+    "popularidad": 48,
+    "titulos": 17,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Ciudad Puerto 02",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1948,
+    "popularidad": 49,
+    "titulos": 18,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Social Puerto 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1949,
+    "popularidad": 50,
+    "titulos": 19,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Atletico Valle 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1950,
+    "popularidad": 51,
+    "titulos": 20,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Deportivo Valle 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1951,
+    "popularidad": 52,
+    "titulos": 21,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Sporting Valle 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1952,
+    "popularidad": 53,
+    "titulos": 22,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Union Valle 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1953,
+    "popularidad": 54,
+    "titulos": 23,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Central Valle 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1954,
+    "popularidad": 55,
+    "titulos": 24,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Juventud Valle 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1955,
+    "popularidad": 56,
+    "titulos": 0,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Academia Valle 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1956,
+    "popularidad": 57,
+    "titulos": 1,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Estudiantes Valle 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1957,
+    "popularidad": 58,
+    "titulos": 2,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Defensores Valle 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1958,
+    "popularidad": 59,
+    "titulos": 3,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Independiente Valle 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1959,
+    "popularidad": 60,
+    "titulos": 4,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Nacional Valle 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1960,
+    "popularidad": 61,
+    "titulos": 5,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Racing Valle 02",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1961,
+    "popularidad": 62,
+    "titulos": 6,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Real Valle 02",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1962,
+    "popularidad": 63,
+    "titulos": 7,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "San Martin Valle 02",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1963,
+    "popularidad": 64,
+    "titulos": 8,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Libertad Valle 02",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1964,
+    "popularidad": 65,
+    "titulos": 9,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Municipal Valle 02",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1965,
+    "popularidad": 66,
+    "titulos": 10,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Universitario Valle 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1966,
+    "popularidad": 67,
+    "titulos": 11,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Olimpico Valle 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1967,
+    "popularidad": 68,
+    "titulos": 12,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Ciudad Valle 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1968,
+    "popularidad": 69,
+    "titulos": 13,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Social Valle 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1969,
+    "popularidad": 70,
+    "titulos": 14,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Atletico Sierra 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1970,
+    "popularidad": 71,
+    "titulos": 15,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Deportivo Sierra 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1971,
+    "popularidad": 72,
+    "titulos": 16,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Sporting Sierra 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1972,
+    "popularidad": 73,
+    "titulos": 17,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Union Sierra 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1973,
+    "popularidad": 74,
+    "titulos": 18,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Central Sierra 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1974,
+    "popularidad": 75,
+    "titulos": 19,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Juventud Sierra 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1975,
+    "popularidad": 76,
+    "titulos": 20,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Academia Sierra 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1976,
+    "popularidad": 77,
+    "titulos": 21,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Estudiantes Sierra 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1977,
+    "popularidad": 78,
+    "titulos": 22,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Defensores Sierra 02",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1978,
+    "popularidad": 79,
+    "titulos": 23,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Independiente Sierra 02",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1979,
+    "popularidad": 80,
+    "titulos": 24,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Nacional Sierra 02",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1980,
+    "popularidad": 81,
+    "titulos": 0,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Racing Sierra 02",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1981,
+    "popularidad": 82,
+    "titulos": 1,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Real Sierra 02",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1982,
+    "popularidad": 83,
+    "titulos": 2,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "San Martin Sierra 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1983,
+    "popularidad": 84,
+    "titulos": 3,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Libertad Sierra 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1984,
+    "popularidad": 85,
+    "titulos": 4,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Municipal Sierra 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1985,
+    "popularidad": 86,
+    "titulos": 5,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Universitario Sierra 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1986,
+    "popularidad": 87,
+    "titulos": 6,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Olimpico Sierra 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1987,
+    "popularidad": 88,
+    "titulos": 7,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Ciudad Sierra 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1988,
+    "popularidad": 89,
+    "titulos": 8,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Social Sierra 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1989,
+    "popularidad": 90,
+    "titulos": 9,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Atletico Rio 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1990,
+    "popularidad": 91,
+    "titulos": 10,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Deportivo Rio 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1991,
+    "popularidad": 92,
+    "titulos": 11,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Sporting Rio 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1992,
+    "popularidad": 93,
+    "titulos": 12,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Union Rio 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1993,
+    "popularidad": 94,
+    "titulos": 13,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Central Rio 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1994,
+    "popularidad": 95,
+    "titulos": 14,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Juventud Rio 02",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1995,
+    "popularidad": 96,
+    "titulos": 15,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Academia Rio 02",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1996,
+    "popularidad": 97,
+    "titulos": 16,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Estudiantes Rio 02",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1997,
+    "popularidad": 98,
+    "titulos": 17,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Defensores Rio 02",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1998,
+    "popularidad": 35,
+    "titulos": 18,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Independiente Rio 02",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1999,
+    "popularidad": 36,
+    "titulos": 19,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Nacional Rio 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 2000,
+    "popularidad": 37,
+    "titulos": 20,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Racing Rio 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 2001,
+    "popularidad": 38,
+    "titulos": 21,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Real Rio 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 2002,
+    "popularidad": 39,
+    "titulos": 22,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "San Martin Rio 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 2003,
+    "popularidad": 40,
+    "titulos": 23,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Libertad Rio 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 2004,
+    "popularidad": 41,
+    "titulos": 24,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Municipal Rio 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 2005,
+    "popularidad": 42,
+    "titulos": 0,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Universitario Rio 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 2006,
+    "popularidad": 43,
+    "titulos": 1,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Olimpico Rio 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 2007,
+    "popularidad": 44,
+    "titulos": 2,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Ciudad Rio 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 2008,
+    "popularidad": 45,
+    "titulos": 3,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Social Rio 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 2009,
+    "popularidad": 46,
+    "titulos": 4,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Atletico Costa 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1880,
+    "popularidad": 47,
+    "titulos": 5,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Deportivo Costa 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1881,
+    "popularidad": 48,
+    "titulos": 6,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Sporting Costa 02",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1882,
+    "popularidad": 49,
+    "titulos": 7,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Union Costa 02",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1883,
+    "popularidad": 50,
+    "titulos": 8,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Central Costa 02",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1884,
+    "popularidad": 51,
+    "titulos": 9,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Juventud Costa 02",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1885,
+    "popularidad": 52,
+    "titulos": 10,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Academia Costa 02",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1886,
+    "popularidad": 53,
+    "titulos": 11,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Estudiantes Costa 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1887,
+    "popularidad": 54,
+    "titulos": 12,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Defensores Costa 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1888,
+    "popularidad": 55,
+    "titulos": 13,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Independiente Costa 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1889,
+    "popularidad": 56,
+    "titulos": 14,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Nacional Costa 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1890,
+    "popularidad": 57,
+    "titulos": 15,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Racing Costa 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1891,
+    "popularidad": 58,
+    "titulos": 16,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Real Costa 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1892,
+    "popularidad": 59,
+    "titulos": 17,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "San Martin Costa 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1893,
+    "popularidad": 60,
+    "titulos": 18,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Libertad Costa 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1894,
+    "popularidad": 61,
+    "titulos": 19,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Municipal Costa 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1895,
+    "popularidad": 62,
+    "titulos": 20,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Universitario Costa 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1896,
+    "popularidad": 63,
+    "titulos": 21,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Olimpico Costa 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1897,
+    "popularidad": 64,
+    "titulos": 22,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Ciudad Costa 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1898,
+    "popularidad": 65,
+    "titulos": 23,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Social Costa 02",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1899,
+    "popularidad": 66,
+    "titulos": 24,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Atletico Lago 02",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1900,
+    "popularidad": 67,
+    "titulos": 0,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Deportivo Lago 02",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1901,
+    "popularidad": 68,
+    "titulos": 1,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Sporting Lago 02",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1902,
+    "popularidad": 69,
+    "titulos": 2,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Union Lago 02",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1903,
+    "popularidad": 70,
+    "titulos": 3,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Central Lago 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1904,
+    "popularidad": 71,
+    "titulos": 4,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Juventud Lago 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1905,
+    "popularidad": 72,
+    "titulos": 5,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Academia Lago 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1906,
+    "popularidad": 73,
+    "titulos": 6,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Estudiantes Lago 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1907,
+    "popularidad": 74,
+    "titulos": 7,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Defensores Lago 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1908,
+    "popularidad": 75,
+    "titulos": 8,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Independiente Lago 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1909,
+    "popularidad": 76,
+    "titulos": 9,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Nacional Lago 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1910,
+    "popularidad": 77,
+    "titulos": 10,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Racing Lago 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1911,
+    "popularidad": 78,
+    "titulos": 11,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Real Lago 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1912,
+    "popularidad": 79,
+    "titulos": 12,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "San Martin Lago 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1913,
+    "popularidad": 80,
+    "titulos": 13,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Libertad Lago 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1914,
+    "popularidad": 81,
+    "titulos": 14,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Municipal Lago 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1915,
+    "popularidad": 82,
+    "titulos": 15,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Universitario Lago 02",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1916,
+    "popularidad": 83,
+    "titulos": 16,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Olimpico Lago 02",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1917,
+    "popularidad": 84,
+    "titulos": 17,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Ciudad Lago 02",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1918,
+    "popularidad": 85,
+    "titulos": 18,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Social Lago 02",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1919,
+    "popularidad": 86,
+    "titulos": 19,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Atletico Monte 02",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1920,
+    "popularidad": 87,
+    "titulos": 20,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Deportivo Monte 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1921,
+    "popularidad": 88,
+    "titulos": 21,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Sporting Monte 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1922,
+    "popularidad": 89,
+    "titulos": 22,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Union Monte 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1923,
+    "popularidad": 90,
+    "titulos": 23,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Central Monte 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1924,
+    "popularidad": 91,
+    "titulos": 24,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Juventud Monte 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1925,
+    "popularidad": 92,
+    "titulos": 0,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Academia Monte 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1926,
+    "popularidad": 93,
+    "titulos": 1,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Estudiantes Monte 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1927,
+    "popularidad": 94,
+    "titulos": 2,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Defensores Monte 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1928,
+    "popularidad": 95,
+    "titulos": 3,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Independiente Monte 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1929,
+    "popularidad": 96,
+    "titulos": 4,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Nacional Monte 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1930,
+    "popularidad": 97,
+    "titulos": 5,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Racing Monte 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1931,
+    "popularidad": 98,
+    "titulos": 6,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Real Monte 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1932,
+    "popularidad": 35,
+    "titulos": 7,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "San Martin Monte 02",
+    "pais": "Chile",
+    "liga": "Primera Division Chile",
+    "fundacion": 1933,
+    "popularidad": 36,
+    "titulos": 8,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Libertad Monte 02",
+    "pais": "Colombia",
+    "liga": "Categoria Primera A Colombia",
+    "fundacion": 1934,
+    "popularidad": 37,
+    "titulos": 9,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Municipal Monte 02",
+    "pais": "Peru",
+    "liga": "Liga 1 Peru",
+    "fundacion": 1935,
+    "popularidad": 38,
+    "titulos": 10,
+    "estilo": "regional"
+  },
+  {
+    "nombre": "Universitario Monte 02",
+    "pais": "Ecuador",
+    "liga": "LigaPro Ecuador",
+    "fundacion": 1936,
+    "popularidad": 39,
+    "titulos": 11,
+    "estilo": "fisico"
+  },
+  {
+    "nombre": "Olimpico Monte 02",
+    "pais": "Paraguay",
+    "liga": "Primera Division Paraguay",
+    "fundacion": 1937,
+    "popularidad": 40,
+    "titulos": 12,
+    "estilo": "tecnico"
+  },
+  {
+    "nombre": "Ciudad Monte 02",
+    "pais": "Bolivia",
+    "liga": "Division Profesional Bolivia",
+    "fundacion": 1938,
+    "popularidad": 41,
+    "titulos": 13,
+    "estilo": "copero"
+  },
+  {
+    "nombre": "Social Monte 02",
+    "pais": "Venezuela",
+    "liga": "Primera Division Venezuela",
+    "fundacion": 1939,
+    "popularidad": 42,
+    "titulos": 14,
+    "estilo": "resistente"
+  },
+  {
+    "nombre": "Atletico Sol 02",
+    "pais": "Costa Rica",
+    "liga": "Primera Division Costa Rica",
+    "fundacion": 1940,
+    "popularidad": 43,
+    "titulos": 15,
+    "estilo": "ofensivo"
+  },
+  {
+    "nombre": "Deportivo Sol 02",
+    "pais": "Japon",
+    "liga": "J1 League Japon",
+    "fundacion": 1941,
+    "popularidad": 44,
+    "titulos": 16,
+    "estilo": "defensivo"
+  },
+  {
+    "nombre": "Sporting Sol 02",
+    "pais": "Corea del Sur",
+    "liga": "K League Corea del Sur",
+    "fundacion": 1942,
+    "popularidad": 45,
+    "titulos": 17,
+    "estilo": "competitivo"
+  },
+  {
+    "nombre": "Union Sol 02",
+    "pais": "Australia",
+    "liga": "A-League Australia",
+    "fundacion": 1943,
+    "popularidad": 46,
+    "titulos": 18,
+    "estilo": "historico"
+  },
+  {
+    "nombre": "Central Sol 02",
+    "pais": "Turquia",
+    "liga": "Super Lig Turquia",
+    "fundacion": 1944,
+    "popularidad": 47,
+    "titulos": 19,
+    "estilo": "popular"
+  },
+  {
+    "nombre": "Juventud Sol 02",
+    "pais": "Grecia",
+    "liga": "Super League Grecia",
+    "fundacion": 1945,
+    "popularidad": 48,
+    "titulos": 20,
+    "estilo": "cantera"
+  },
+  {
+    "nombre": "Academia Sol 02",
+    "pais": "Belgica",
+    "liga": "Pro League Belgica",
+    "fundacion": 1946,
+    "popularidad": 49,
+    "titulos": 21,
+    "estilo": "moderno"
+  },
+  {
+    "nombre": "Estudiantes Sol 02",
+    "pais": "Suiza",
+    "liga": "Super League Suiza",
+    "fundacion": 1947,
+    "popularidad": 50,
+    "titulos": 22,
+    "estilo": "ordenado"
+  },
+  {
+    "nombre": "Defensores Sol 02",
+    "pais": "Austria",
+    "liga": "Bundesliga Austria",
+    "fundacion": 1948,
+    "popularidad": 51,
+    "titulos": 23,
+    "estilo": "intenso"
+  },
+  {
+    "nombre": "Independiente Sol 02",
+    "pais": "Escocia",
+    "liga": "Premiership Escocia",
+    "fundacion": 1949,
+    "popularidad": 52,
+    "titulos": 24,
+    "estilo": "regional"
+  }
+]

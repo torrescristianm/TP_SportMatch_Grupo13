@@ -1,0 +1,12 @@
+[
+  {"nombre": "Atlanta United", "pais": "Estados Unidos", "liga": "MLS Estados Unidos", "fundacion": 2014, "popularidad": 78, "titulos": 1, "estilo": "ofensivo"},
+  {"nombre": "Chicago Fire", "pais": "Estados Unidos", "liga": "MLS Estados Unidos", "fundacion": 1997, "popularidad": 65, "titulos": 1, "estilo": "historico"},
+  {"nombre": "Columbus Crew", "pais": "Estados Unidos", "liga": "MLS Estados Unidos", "fundacion": 1994, "popularidad": 70, "titulos": 3, "estilo": "competitivo"},
+  {"nombre": "DC United", "pais": "Estados Unidos", "liga": "MLS Estados Unidos", "fundacion": 1995, "popularidad": 72, "titulos": 4, "estilo": "historico"},
+  {"nombre": "Inter Miami", "pais": "Estados Unidos", "liga": "MLS Estados Unidos", "fundacion": 2018, "popularidad": 92, "titulos": 0, "estilo": "ofensivo"},
+  {"nombre": "LA Galaxy", "pais": "Estados Unidos", "liga": "MLS Estados Unidos", "fundacion": 1994, "popularidad": 84, "titulos": 5, "estilo": "popular"},
+  {"nombre": "Los Angeles FC", "pais": "Estados Unidos", "liga": "MLS Estados Unidos", "fundacion": 2014, "popularidad": 82, "titulos": 1, "estilo": "moderno"},
+  {"nombre": "New York Red Bulls", "pais": "Estados Unidos", "liga": "MLS Estados Unidos", "fundacion": 1994, "popularidad": 74, "titulos": 0, "estilo": "intenso"},
+  {"nombre": "Seattle Sounders", "pais": "Estados Unidos", "liga": "MLS Estados Unidos", "fundacion": 2007, "popularidad": 81, "titulos": 2, "estilo": "competitivo"},
+  {"nombre": "Toronto FC", "pais": "Canada", "liga": "MLS Estados Unidos", "fundacion": 2005, "popularidad": 70, "titulos": 1, "estilo": "popular"}
+]

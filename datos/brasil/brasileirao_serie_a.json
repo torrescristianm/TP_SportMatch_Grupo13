@@ -1,0 +1,12 @@
+[
+  {"nombre": "Atletico Mineiro", "pais": "Brasil", "liga": "Brasileirao Serie A", "fundacion": 1908, "popularidad": 84, "titulos": 3, "estilo": "competitivo"},
+  {"nombre": "Botafogo", "pais": "Brasil", "liga": "Brasileirao Serie A", "fundacion": 1904, "popularidad": 82, "titulos": 3, "estilo": "historico"},
+  {"nombre": "Corinthians", "pais": "Brasil", "liga": "Brasileirao Serie A", "fundacion": 1910, "popularidad": 94, "titulos": 7, "estilo": "popular"},
+  {"nombre": "Cruzeiro", "pais": "Brasil", "liga": "Brasileirao Serie A", "fundacion": 1921, "popularidad": 83, "titulos": 4, "estilo": "historico"},
+  {"nombre": "Flamengo", "pais": "Brasil", "liga": "Brasileirao Serie A", "fundacion": 1895, "popularidad": 98, "titulos": 8, "estilo": "ofensivo"},
+  {"nombre": "Fluminense", "pais": "Brasil", "liga": "Brasileirao Serie A", "fundacion": 1902, "popularidad": 86, "titulos": 4, "estilo": "tecnico"},
+  {"nombre": "Gremio", "pais": "Brasil", "liga": "Brasileirao Serie A", "fundacion": 1903, "popularidad": 85, "titulos": 2, "estilo": "copero"},
+  {"nombre": "Internacional", "pais": "Brasil", "liga": "Brasileirao Serie A", "fundacion": 1909, "popularidad": 84, "titulos": 3, "estilo": "competitivo"},
+  {"nombre": "Palmeiras", "pais": "Brasil", "liga": "Brasileirao Serie A", "fundacion": 1914, "popularidad": 93, "titulos": 12, "estilo": "moderno"},
+  {"nombre": "Santos", "pais": "Brasil", "liga": "Brasileirao Serie A", "fundacion": 1912, "popularidad": 88, "titulos": 8, "estilo": "ofensivo"}
+]

@@ -1,0 +1,12 @@
+[
+  {"nombre": "Penarol", "pais": "Uruguay", "liga": "Primera Division Uruguay", "fundacion": 1891, "popularidad": 94, "titulos": 51, "estilo": "copero"},
+  {"nombre": "Nacional", "pais": "Uruguay", "liga": "Primera Division Uruguay", "fundacion": 1899, "popularidad": 94, "titulos": 49, "estilo": "historico"},
+  {"nombre": "Danubio", "pais": "Uruguay", "liga": "Primera Division Uruguay", "fundacion": 1932, "popularidad": 72, "titulos": 4, "estilo": "cantera"},
+  {"nombre": "Defensor Sporting", "pais": "Uruguay", "liga": "Primera Division Uruguay", "fundacion": 1913, "popularidad": 73, "titulos": 4, "estilo": "cantera"},
+  {"nombre": "Liverpool Montevideo", "pais": "Uruguay", "liga": "Primera Division Uruguay", "fundacion": 1915, "popularidad": 70, "titulos": 1, "estilo": "moderno"},
+  {"nombre": "Montevideo Wanderers", "pais": "Uruguay", "liga": "Primera Division Uruguay", "fundacion": 1902, "popularidad": 66, "titulos": 3, "estilo": "historico"},
+  {"nombre": "Cerro", "pais": "Uruguay", "liga": "Primera Division Uruguay", "fundacion": 1922, "popularidad": 62, "titulos": 0, "estilo": "popular"},
+  {"nombre": "Rampla Juniors", "pais": "Uruguay", "liga": "Primera Division Uruguay", "fundacion": 1914, "popularidad": 61, "titulos": 1, "estilo": "popular"},
+  {"nombre": "River Plate Montevideo", "pais": "Uruguay", "liga": "Primera Division Uruguay", "fundacion": 1932, "popularidad": 60, "titulos": 0, "estilo": "ofensivo"},
+  {"nombre": "Boston River", "pais": "Uruguay", "liga": "Primera Division Uruguay", "fundacion": 1939, "popularidad": 55, "titulos": 0, "estilo": "moderno"}
+]

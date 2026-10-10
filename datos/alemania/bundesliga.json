@@ -1,0 +1,12 @@
+[
+  {"nombre": "Bayer Leverkusen", "pais": "Alemania", "liga": "Bundesliga Alemania", "fundacion": 1904, "popularidad": 84, "titulos": 1, "estilo": "moderno"},
+  {"nombre": "Bayern Munich", "pais": "Alemania", "liga": "Bundesliga Alemania", "fundacion": 1900, "popularidad": 97, "titulos": 33, "estilo": "dominante"},
+  {"nombre": "Borussia Dortmund", "pais": "Alemania", "liga": "Bundesliga Alemania", "fundacion": 1909, "popularidad": 92, "titulos": 8, "estilo": "intenso"},
+  {"nombre": "Borussia Monchengladbach", "pais": "Alemania", "liga": "Bundesliga Alemania", "fundacion": 1900, "popularidad": 75, "titulos": 5, "estilo": "historico"},
+  {"nombre": "Eintracht Frankfurt", "pais": "Alemania", "liga": "Bundesliga Alemania", "fundacion": 1899, "popularidad": 78, "titulos": 1, "estilo": "popular"},
+  {"nombre": "Freiburg", "pais": "Alemania", "liga": "Bundesliga Alemania", "fundacion": 1904, "popularidad": 68, "titulos": 0, "estilo": "ordenado"},
+  {"nombre": "RB Leipzig", "pais": "Alemania", "liga": "Bundesliga Alemania", "fundacion": 2009, "popularidad": 80, "titulos": 0, "estilo": "moderno"},
+  {"nombre": "Schalke 04", "pais": "Alemania", "liga": "Bundesliga Alemania", "fundacion": 1904, "popularidad": 79, "titulos": 7, "estilo": "popular"},
+  {"nombre": "Stuttgart", "pais": "Alemania", "liga": "Bundesliga Alemania", "fundacion": 1893, "popularidad": 74, "titulos": 5, "estilo": "historico"},
+  {"nombre": "Werder Bremen", "pais": "Alemania", "liga": "Bundesliga Alemania", "fundacion": 1899, "popularidad": 73, "titulos": 4, "estilo": "historico"}
+]

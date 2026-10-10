@@ -1,0 +1,12 @@
+[
+  {"nombre": "All Boys", "pais": "Argentina", "liga": "B Nacional Argentina", "fundacion": 1913, "popularidad": 60, "titulos": 0, "estilo": "historico"},
+  {"nombre": "Almagro", "pais": "Argentina", "liga": "B Nacional Argentina", "fundacion": 1911, "popularidad": 52, "titulos": 0, "estilo": "barrial"},
+  {"nombre": "Atlanta", "pais": "Argentina", "liga": "B Nacional Argentina", "fundacion": 1904, "popularidad": 58, "titulos": 0, "estilo": "historico"},
+  {"nombre": "Chacarita Juniors", "pais": "Argentina", "liga": "B Nacional Argentina", "fundacion": 1906, "popularidad": 67, "titulos": 1, "estilo": "popular"},
+  {"nombre": "Deportivo Moron", "pais": "Argentina", "liga": "B Nacional Argentina", "fundacion": 1947, "popularidad": 57, "titulos": 0, "estilo": "resistente"},
+  {"nombre": "Ferro Carril Oeste", "pais": "Argentina", "liga": "B Nacional Argentina", "fundacion": 1904, "popularidad": 65, "titulos": 2, "estilo": "historico"},
+  {"nombre": "Gimnasia y Esgrima Jujuy", "pais": "Argentina", "liga": "B Nacional Argentina", "fundacion": 1931, "popularidad": 56, "titulos": 0, "estilo": "regional"},
+  {"nombre": "Nueva Chicago", "pais": "Argentina", "liga": "B Nacional Argentina", "fundacion": 1911, "popularidad": 64, "titulos": 0, "estilo": "popular"},
+  {"nombre": "Quilmes", "pais": "Argentina", "liga": "B Nacional Argentina", "fundacion": 1887, "popularidad": 66, "titulos": 2, "estilo": "historico"},
+  {"nombre": "San Martin de Tucuman", "pais": "Argentina", "liga": "B Nacional Argentina", "fundacion": 1909, "popularidad": 72, "titulos": 0, "estilo": "popular"}
+]
