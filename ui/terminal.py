@@ -8,6 +8,8 @@ sys.path.append(str(Path(__file__).resolve().parent.parent))
 
 from modelos.equipo import Equipo
 from estructuras.arbol_binario_busqueda import ArbolBinarioBusqueda
+from estructuras.arbol_avl import ArbolAVL
+from estructuras.arbol_general import ArbolGeneral
 
 
 def limpiar_pantalla():
@@ -16,7 +18,7 @@ def limpiar_pantalla():
 
 def mostrar_presentacion():
     pelota = [
-        "⚽          ",
+        "⚽         ",
         "  ⚽        ",
         "    ⚽      ",
         "      ⚽    ",
@@ -86,6 +88,32 @@ def crear_arbol_por_nombre(equipos):
     return arbol
 
 
+def crear_arbol_avl(equipos):
+    arbol = ArbolAVL()
+
+    for equipo in equipos:
+        arbol.insertar(equipo.nombre, equipo)
+
+    return arbol
+
+
+def crear_arbol_general_categorias(equipos):
+    arbol = ArbolGeneral()
+    raiz = arbol.insertar_raiz("Categorías de Fútbol / Ligas")
+
+    # Agrupar equipos por país o liga para armar la jerarquía
+    paises = {}
+    for equipo in equipos:
+        if equipo.pais not in paises:
+            paises[equipo.pais] = arbol.agregar_hijo(raiz, equipo.pais)
+        
+        # Opcional: Agregar ligas o equipos como sub-hijos
+        # Aquí agregamos el equipo como hijo del país correspondiente
+        arbol.agregar_hijo(paises[equipo.pais], f"{equipo.nombre} ({equipo.liga})")
+
+    return arbol
+
+
 def medir_creacion_arbol(equipos):
     inicio = time.perf_counter()
     arbol = crear_arbol_por_nombre(equipos)
@@ -103,8 +131,10 @@ def mostrar_menu():
     print("3. Filtrar por pais")
     print("4. Filtrar por liga")
     print("5. Mostrar equipos relacionados")
-    print("6. Buscar por nombre con arbol binario")
-    print("7. Mostrar equipos ordenados por nombre")
+    print("6. Buscar por nombre con arbol binario (BST)")
+    print("7. Mostrar equipos ordenados por nombre (BST)")
+    print("8. Buscar equipo con Árbol AVL")
+    print("9. Explorar categorías (Árbol General)")
     print("0. Salir")
     print("-" * 40)
 
@@ -204,6 +234,31 @@ def buscar_con_arbol(equipos, arbol):
         print("Ambas estrategias encontraron el mismo equipo.")
 
 
+def buscar_con_avl(arbol_avl):
+    nombre = input("Nombre exacto del equipo a buscar con AVL: ")
+    inicio = time.perf_counter()
+    resultado, pasos = arbol_avl.buscar(nombre)
+    tiempo_total = time.perf_counter() - inicio
+
+    if resultado:
+        print(f"\n¡Encontrado en {pasos} pasos (Altura AVL: {arbol_avl.obtener_altura()}):")
+        print(resultado)
+    else:
+        print("\nEquipo no encontrado en el árbol AVL.")
+    print(f"Tiempo de búsqueda AVL: {formatear_tiempo(tiempo_total)}")
+
+
+def explorar_arbol_general(arbol_general):
+    print("\n--- EXPLORANDO CATEGORÍAS (Árbol General - Amplitud) ---")
+    elementos = arbol_general.amplitud()
+    for i, elem in enumerate(elementos[:30], 1):  # Limitamos vista si es muy largo
+        print(f"{i}. {elem}")
+    if len(elementos) > 30:
+        print(f"... y {len(elementos) - 30} nodos más en la jerarquía.")
+    
+    print(f"\nCantidad total de nodos en la jerarquía: {arbol_general.cantidad_nodos()}")
+
+
 def listar(equipos):
     for i, e in enumerate(equipos, 1):
         print(f"{i}. {e}")
@@ -220,22 +275,6 @@ def listar_ordenados_por_nombre(equipos, arbol):
     print("Tiempo de ordenamiento:")
     print(f"Recorrido inorden del arbol: {formatear_tiempo(tiempo_arbol)}")
     print(f"Ordenamiento secuencial con sorted: {formatear_tiempo(tiempo_secuencial)}")
-
-
-def mostrar_recorridos_arbol(arbol):
-    print("Recorrido inorden:")
-    for equipo in arbol.inorden():
-        print(equipo.nombre)
-
-    print()
-    print("Recorrido preorden:")
-    for equipo in arbol.preorden():
-        print(equipo.nombre)
-
-    print()
-    print("Recorrido postorden:")
-    for equipo in arbol.postorden():
-        print(equipo.nombre)
 
 
 def filtrar_por_pais(equipos):
@@ -289,9 +328,14 @@ def recomendar(equipos):
 def main():
     mostrar_presentacion()
     equipos = cargar_datos()
+    
+    # Inicializar estructuras (BST, AVL y Árbol General)
     arbol_por_nombre, tiempo_creacion_arbol = medir_creacion_arbol(equipos)
+    arbol_avl = crear_arbol_avl(equipos)
+    arbol_general = crear_arbol_general_categorias(equipos)
+
     print(
-        f"Arbol por nombre creado con {len(equipos)} equipos en "
+        f"Arbol BST por nombre creado con {len(equipos)} equipos en "
         f"{formatear_tiempo(tiempo_creacion_arbol)}"
     )
 
@@ -313,6 +357,10 @@ def main():
             buscar_con_arbol(equipos, arbol_por_nombre)
         elif opcion == "7":
             listar_ordenados_por_nombre(equipos, arbol_por_nombre)
+        elif opcion == "8":
+            buscar_con_avl(arbol_avl)
+        elif opcion == "9":
+            explorar_arbol_general(arbol_general)
         elif opcion == "0":
             print("Hasta luego!")
             break
