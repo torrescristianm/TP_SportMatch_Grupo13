@@ -40,6 +40,8 @@ Se incluye arbol avl y arbol n-ario
 
 Se modifica terminal.py con las nuevas busquedas
 
+Se incluye una heap binaria de maximos (`estructuras/heap.py`) para la consulta Top N (opcion 10 del menu).
+
 
 ## Estado
 
@@ -48,8 +50,10 @@ Se modifica terminal.py con las nuevas busquedas
 - TP3: Completado
 - TP4: Completado
 - TP5: Completado
+- TP6: Completado (heap y Top N)
 
 ## Documentación
 
 - [Ver Propuesta del Proyecto y Diagramas](./docs/00-propuesta.md)
+- [Analisis TP6 - Heap](./docs/08-analisis-tp6.md)
 - [Diagrama de Flujo](./diagrama_flujo.png)

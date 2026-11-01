@@ -10,6 +10,7 @@ from modelos.equipo import Equipo
 from estructuras.arbol_binario_busqueda import ArbolBinarioBusqueda
 from estructuras.arbol_avl import ArbolAVL
 from estructuras.arbol_general import ArbolGeneral
+from estructuras.heap import HeapMaximos
 
 
 def limpiar_pantalla():
@@ -114,6 +115,12 @@ def crear_arbol_general_categorias(equipos):
     return arbol
 
 
+def crear_heap_prioridad(equipos):
+    items = [(e.prioridad(), e.nombre.lower(), e) for e in equipos]
+
+    return HeapMaximos.desde_lista(items)
+
+
 def medir_creacion_arbol(equipos):
     inicio = time.perf_counter()
     arbol = crear_arbol_por_nombre(equipos)
@@ -135,6 +142,7 @@ def mostrar_menu():
     print("7. Mostrar equipos ordenados por nombre (BST)")
     print("8. Buscar equipo con Árbol AVL")
     print("9. Explorar categorías (Árbol General)")
+    print("10. Ver Top N equipos (Heap)")
     print("0. Salir")
     print("-" * 40)
 
@@ -259,6 +267,36 @@ def explorar_arbol_general(arbol_general):
     print(f"\nCantidad total de nodos en la jerarquía: {arbol_general.cantidad_nodos()}")
 
 
+def ver_top_n(equipos, heap):
+    texto = input("Cuantos equipos queres ver (Top N): ")
+
+    if not texto.isdigit() or int(texto) == 0:
+        print("Ingresa un numero entero mayor a 0.")
+        return
+
+    n = int(texto)
+
+    inicio = time.perf_counter()
+    top_heap = heap.top_n(n)
+    tiempo_heap = time.perf_counter() - inicio
+
+    inicio = time.perf_counter()
+    top_sorted = sorted(equipos, key=lambda e: (-e.prioridad(), e.nombre.lower()))[:n]
+    tiempo_sorted = time.perf_counter() - inicio
+
+    print(f"\nTop {len(top_heap)} por prioridad (popularidad + titulos x 2):")
+    for i, equipo in enumerate(top_heap, 1):
+        print(f"{i}. {equipo} | prioridad: {equipo.prioridad()}")
+
+    print()
+    print("Comparacion de estrategias:")
+    print(f"Heap (extraer {n} maximos): {formatear_tiempo(tiempo_heap)}")
+    print(f"Ordenar todo con sorted: {formatear_tiempo(tiempo_sorted)}")
+
+    if top_heap == top_sorted:
+        print("Ambas estrategias devolvieron el mismo resultado.")
+
+
 def listar(equipos):
     for i, e in enumerate(equipos, 1):
         print(f"{i}. {e}")
@@ -333,6 +371,7 @@ def main():
     arbol_por_nombre, tiempo_creacion_arbol = medir_creacion_arbol(equipos)
     arbol_avl = crear_arbol_avl(equipos)
     arbol_general = crear_arbol_general_categorias(equipos)
+    heap_prioridad = crear_heap_prioridad(equipos)
 
     print(
         f"Arbol BST por nombre creado con {len(equipos)} equipos en "
@@ -361,6 +400,8 @@ def main():
             buscar_con_avl(arbol_avl)
         elif opcion == "9":
             explorar_arbol_general(arbol_general)
+        elif opcion == "10":
+            ver_top_n(equipos, heap_prioridad)
         elif opcion == "0":
             print("Hasta luego!")
             break

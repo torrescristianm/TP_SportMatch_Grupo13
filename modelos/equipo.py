@@ -11,6 +11,9 @@ class Equipo:
     def coincide_con_nombre(self, texto):
         return texto.lower() in self.nombre.lower()
 
+    def prioridad(self):
+        return self.popularidad + self.titulos * 2
+
     def __str__(self):
         return (
             f"{self.nombre} | {self.pais} | {self.liga} | "
