@@ -11,6 +11,7 @@ from estructuras.arbol_binario_busqueda import ArbolBinarioBusqueda
 from estructuras.arbol_avl import ArbolAVL
 from estructuras.arbol_general import ArbolGeneral
 from estructuras.heap import HeapMaximos
+from servicios.grafo_equipos import construir_grafo
 
 
 def limpiar_pantalla():
@@ -143,6 +144,7 @@ def mostrar_menu():
     print("8. Buscar equipo con Árbol AVL")
     print("9. Explorar categorías (Árbol General)")
     print("10. Ver Top N equipos (Heap)")
+    print("11. Ver conexiones de un equipo (Grafo)")
     print("0. Salir")
     print("-" * 40)
 
@@ -297,6 +299,33 @@ def ver_top_n(equipos, heap):
         print("Ambas estrategias devolvieron el mismo resultado.")
 
 
+def ver_conexiones(grafo):
+    texto = input("Nombre exacto del equipo: ").strip().lower()
+    vertice = None
+
+    for nombre in grafo.adyacentes:
+        if nombre.lower() == texto:
+            vertice = nombre
+            break
+
+    if vertice is None:
+        print("No se encontro el equipo en el grafo.")
+        return
+
+    vecinos = sorted(grafo.vecinos(vertice), key=lambda v: (v[1], v[0]))
+
+    print(f"\n{grafo.obtener_valor(vertice)}")
+    print(f"Conexiones ({grafo.grado(vertice)}), de mas a menos parecido:")
+    for nombre, peso in vecinos:
+        print(f"- {grafo.obtener_valor(nombre)} | distancia: {peso}")
+
+    print()
+    print(
+        f"Grafo: {grafo.cantidad_vertices()} equipos y "
+        f"{grafo.cantidad_aristas} conexiones."
+    )
+
+
 def listar(equipos):
     for i, e in enumerate(equipos, 1):
         print(f"{i}. {e}")
@@ -372,6 +401,7 @@ def main():
     arbol_avl = crear_arbol_avl(equipos)
     arbol_general = crear_arbol_general_categorias(equipos)
     heap_prioridad = crear_heap_prioridad(equipos)
+    grafo = construir_grafo(equipos)
 
     print(
         f"Arbol BST por nombre creado con {len(equipos)} equipos en "
@@ -402,6 +432,8 @@ def main():
             explorar_arbol_general(arbol_general)
         elif opcion == "10":
             ver_top_n(equipos, heap_prioridad)
+        elif opcion == "11":
+            ver_conexiones(grafo)
         elif opcion == "0":
             print("Hasta luego!")
             break
