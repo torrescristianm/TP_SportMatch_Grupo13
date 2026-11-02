@@ -42,6 +42,8 @@ Se modifica terminal.py con las nuevas busquedas
 
 Se incluye una heap binaria de maximos (`estructuras/heap.py`) para la consulta Top N (opcion 10 del menu).
 
+Se incluye un grafo no dirigido y pesado de equipos parecidos (`estructuras/grafo.py` y `servicios/grafo_equipos.py`), con la opcion 11 del menu para ver las conexiones de un equipo.
+
 
 ## Estado
 
@@ -51,9 +53,11 @@ Se incluye una heap binaria de maximos (`estructuras/heap.py`) para la consulta 
 - TP4: Completado
 - TP5: Completado
 - TP6: Completado (heap y Top N)
+- TP7: Completado (grafo)
 
 ## Documentación
 
 - [Ver Propuesta del Proyecto y Diagramas](./docs/00-propuesta.md)
 - [Analisis TP6 - Heap](./docs/08-analisis-tp6.md)
+- [Analisis TP7 - Grafos](./docs/09-analisis-tp7.md)
 - [Diagrama de Flujo](./diagrama_flujo.png)
